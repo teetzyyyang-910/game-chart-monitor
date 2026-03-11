@@ -1,0 +1,6 @@
+requests
+google-play-scraper==1.2.7
+python-dotenv
+msal
+jinja2
+playwright

@@ -1,0 +1,62 @@
+name: 每週遊戲排行榜週報
+
+on:
+  schedule:
+    - cron: "0 2 * * 1"   # 每週一 台灣時間 10:00
+    - cron: "0 2 * * 5"   # 每週五 台灣時間 10:00
+  workflow_dispatch:
+
+jobs:
+  send-report:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install chromium
+          python -m playwright install-deps chromium
+
+      - name: Download previous snapshot
+        uses: actions/download-artifact@v4
+        with:
+          name: rank-snapshot
+          path: .
+        continue-on-error: true
+
+      - name: Run weekly report
+        env:
+          GMAIL_USER:         ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAILS:   ${{ secrets.RECIPIENT_EMAILS }}
+          SLACK_WEBHOOK_URL:  ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_CHANNEL:      ${{ secrets.SLACK_CHANNEL }}
+          REPORT_URL:         ${{ secrets.REPORT_URL }}
+        run: python main.py
+
+      - name: Deploy report to GitHub Pages (reports/ 子資料夾)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p reports
+          cp preview_report.html reports/preview_report.html
+          git add reports/preview_report.html
+          git diff --staged --quiet || git commit -m "📊 Update game chart report $(date +'%Y/%m/%d')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Save rank snapshot
+        uses: actions/upload-artifact@v4
+        with:
+          name: rank-snapshot
+          path: rank_snapshot.json
+          retention-days: 30
