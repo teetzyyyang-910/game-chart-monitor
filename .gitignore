@@ -1,0 +1,12 @@
+.env
+__pycache__/
+fetchers/__pycache__/
+*.pyc
+*.png
+debug_*.py
+debug_*.html
+fix_all.py
+patch_*.py
+rank_snapshot.json
+preview_report.html
+preview_email.html
