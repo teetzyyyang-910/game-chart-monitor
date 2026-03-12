@@ -106,6 +106,17 @@ def build_slack_message(appstore_data: dict, gplay_data: dict) -> list[dict]:
             }
         ]
 
+    # 加入完整報告連結
+    report_url = os.getenv("REPORT_URL", "")
+    if report_url:
+        blocks.append({
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": f"<{report_url}|📊 查看完整地區報告>"
+            }
+        })
+
     return blocks
 
 
