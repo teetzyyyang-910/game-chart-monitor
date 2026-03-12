@@ -26,6 +26,7 @@ jobs:
           python -m playwright install-deps chromium
 
       - name: Download previous snapshot
+        id: download-snapshot
         uses: actions/download-artifact@v4
         with:
           name: rank-snapshot
@@ -42,7 +43,7 @@ jobs:
           REPORT_URL:         ${{ secrets.REPORT_URL }}
         run: python main.py
 
-      - name: Deploy report to GitHub Pages (reports/ 子資料夾)
+      - name: Deploy report to GitHub Pages
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -60,3 +61,4 @@ jobs:
           name: rank-snapshot
           path: rank_snapshot.json
           retention-days: 30
+          overwrite: true

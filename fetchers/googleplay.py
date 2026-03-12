@@ -104,6 +104,38 @@ async def _fetch_ids_playwright(country, lang, chart_id, limit):
             except Exception:
                 await page.wait_for_timeout(2000)
 
+        # 等待頁面第一個 app 連結真正改變（確認 tab 切換後 DOM 已更新）
+        if is_grossing:
+            try:
+                # 先記錄現在的第一個 app ID
+                first_id_before = await page.evaluate('''() => {
+                    const links = document.querySelectorAll('a[href*="details?id="]');
+                    for (const a of links) {
+                        const m = a.href.match(/id=([\w.]+)/);
+                        if (m && m[1].length > 8) return m[1];
+                    }
+                    return null;
+                }''')
+
+                # 等到第一個 app ID 改變，最多等 8 秒
+                for _ in range(16):
+                    await page.wait_for_timeout(500)
+                    first_id_after = await page.evaluate('''() => {
+                        const links = document.querySelectorAll('a[href*="details?id="]');
+                        for (const a of links) {
+                            const m = a.href.match(/id=([\w.]+)/);
+                            if (m && m[1].length > 8) return m[1];
+                        }
+                        return null;
+                    }''')
+                    if first_id_after and first_id_after != first_id_before:
+                        print("    DOM 已更新：{} → {}".format(first_id_before, first_id_after))
+                        break
+                else:
+                    print("    WARNING: DOM 可能未更新，仍使用現有內容")
+            except Exception as e:
+                await page.wait_for_timeout(2000)
+
         # 精確抓取排行榜區域（用排名數字定位）
         links = await page.evaluate('''() => {
             const allEls = Array.from(document.querySelectorAll("*"));
