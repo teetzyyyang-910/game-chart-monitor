@@ -407,8 +407,8 @@ def build_email_html(appstore_data: dict, gplay_data: dict, report_url: str = ""
         items = ""
         for line in lines:
             line = line.strip()
-            if line.startswith("•") or line.startswith("-"):
-                line = line.lstrip("•-").strip()
+            if line.startswith("•") or line.startswith("-") or line.startswith("*"):
+                line = line.lstrip("•-*").strip()
                 line = re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', line)
                 items += f'<li style="margin:5px 0;font-size:13px;color:#374151">{line}</li>'
         ai_summary_html = f'''<div style="background:#fffbeb;border:1px solid #fde68a;border-radius:10px;padding:14px 16px;margin-bottom:16px">
