@@ -197,7 +197,7 @@ switchRegion(document.getElementById("regionSelect").value);
 
 
 def build_subject() -> str:
-    return f"🎮 每週遊戲排行榜週報 — {datetime.now().strftime('%Y/%m/%d')}"
+    return f"🎮 {datetime.now().strftime('%Y/%m/%d')} — 雙平台遊戲排行榜趨勢"
 
 
 # ─────────────────────────────────────────────────────────────
@@ -398,13 +398,7 @@ def build_email_html(appstore_data: dict, gplay_data: dict, report_url: str = ""
     # ── 完整報告連結 ─────────────────────────────────────
     link_html = ""
     if report_url:
-        link_html = f"""
-        <div style="text-align:center;margin:20px 0">
-          <a href="{report_url}" style="display:inline-block;background:linear-gradient(135deg,#1a73e8,#0d47a1);color:white;text-decoration:none;padding:12px 32px;border-radius:8px;font-weight:600;font-size:14px">
-            📊 查看完整 10 地區互動報告 →
-          </a>
-          <p style="color:#aaa;font-size:11px;margin-top:6px">含所有地區 Top 15 完整排行榜，可用下拉選單切換</p>
-        </div>"""
+        link_html = f'<div style="margin-top:12px"><a href="{report_url}" style="display:inline-block;background:rgba(255,255,255,0.2);color:white;text-decoration:none;padding:8px 24px;border-radius:20px;font-size:13px;font-weight:600;border:1px solid rgba(255,255,255,0.5)">📊 查看完整地區報告</a></div>'
 
     return f"""<!DOCTYPE html>
 <html lang="zh-Hant">
@@ -415,6 +409,7 @@ def build_email_html(appstore_data: dict, gplay_data: dict, report_url: str = ""
   <div style="background:linear-gradient(135deg,#1a73e8,#0d47a1);color:white;border-radius:12px;padding:20px 24px;margin-bottom:16px;text-align:center">
     <h1 style="margin:0;font-size:20px">🎮 雙平台遊戲排行榜趨勢 🐑</h1>
     <p style="margin:4px 0 0;opacity:.8;font-size:12px">資料日期：{now_str} ｜ 重點地區 Top 5</p>
+    {link_html}
   </div>
 
   <!-- 排名變動摘要 -->
@@ -427,9 +422,6 @@ def build_email_html(appstore_data: dict, gplay_data: dict, report_url: str = ""
   <!-- 重點地區 Top 5 -->
   {regions_html}
 
-  <!-- 完整報告連結 -->
-  {link_html}
-
   <div style="text-align:center;color:#aaa;font-size:11px;padding:8px 0">
     每週一、週五早上 10:00 自動寄出 · 資料來源：App Store / Google Play
   </div>
@@ -439,7 +431,7 @@ def build_email_html(appstore_data: dict, gplay_data: dict, report_url: str = ""
 
 
 def build_subject() -> str:
-    return f"🎮 每週遊戲排行榜週報 — {datetime.now().strftime('%Y/%m/%d')}"
+    return f"🎮 {datetime.now().strftime('%Y/%m/%d')} — 雙平台遊戲排行榜趨勢"
 
 
 # ─────────────────────────────────────────────────────────────
@@ -539,7 +531,7 @@ def _static_region_block(region, appstore_data, gplay_data):
 
 
 def build_subject() -> str:
-    return f"🎮 每週遊戲排行榜週報 — {datetime.now().strftime('%Y/%m/%d')}"
+    return f"🎮 {datetime.now().strftime('%Y/%m/%d')} — 雙平台遊戲排行榜趨勢"
 
 
 # ─────────────────────────────────────────────────────────────
