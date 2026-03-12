@@ -1,7 +1,10 @@
 """
-主程式：抓取排行榜 → 比對排名變化 → 產生 HTML → 寄信
-執行方式：python main.py
-可加 --preview 只產生 HTML 預覽，不寄信
+主程式：抓取排行榜 → 比對排名變化 → 產生 HTML → 寄信/Slack
+執行方式：
+  python main.py            # 抓資料 + 寄 Email
+  python main.py --preview  # 只產生 HTML，不寄信
+  python main.py --slack    # 只產生 HTML + 發 Slack
+  python main.py --preview --slack  # 產生 HTML + 發 Slack，不寄信
 """
 import argparse
 import os
@@ -19,7 +22,7 @@ from send_email          import send_email
 from rank_tracker        import load_previous, save_snapshot, add_rank_changes
 
 
-def main(preview_only: bool = False):
+def main(preview_only: bool = False, send_slack: bool = False):
     print("=" * 55)
     print("🎮 遊戲排行榜週報  {}".format(datetime.now().strftime("%Y/%m/%d %H:%M")))
     print("=" * 55)
@@ -53,23 +56,26 @@ def main(preview_only: bool = False):
     html_email   = build_email_html(appstore_data, gplay_data, report_url=report_url)
     subject      = build_subject()
 
-    # 瀏覽器互動版
     preview_path = Path("preview_report.html")
     preview_path.write_text(html_preview, encoding="utf-8")
     print("   互動預覽：{}".format(preview_path.resolve()))
 
-    # Email 靜態版
     email_path = Path("preview_email.html")
     email_path.write_text(html_email, encoding="utf-8")
     print("   Email版本：{}".format(email_path.resolve()))
 
+    # ── 6. 發送 Slack ─────────────────────────────────────
+    if send_slack:
+        print("\n📨 發送 Slack 通知...")
+        from slack_notify import build_slack_message, send_to_slack
+        blocks = build_slack_message(appstore_data, gplay_data)
+        send_to_slack(blocks)
+
     if preview_only:
         print("\n✅ --preview 模式：僅產生 HTML，不寄信。")
-        print("   用瀏覽器開啟 preview_report.html 確認互動版")
-        print("   用瀏覽器開啟 preview_email.html 確認 Email 版")
         return
 
-    # ── 6. 寄信 ───────────────────────────────────────────
+    # ── 7. 寄信 ───────────────────────────────────────────
     print("\n📧 寄送郵件...")
     send_email(subject=subject, html_body=html_email)
 
@@ -79,5 +85,6 @@ def main(preview_only: bool = False):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="遊戲排行榜週報自動化")
     parser.add_argument("--preview", action="store_true", help="只產生 HTML，不寄信")
+    parser.add_argument("--slack",   action="store_true", help="發送 Slack 通知")
     args = parser.parse_args()
-    main(preview_only=args.preview)
+    main(preview_only=args.preview, send_slack=args.slack)
