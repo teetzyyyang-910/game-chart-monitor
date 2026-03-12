@@ -50,7 +50,7 @@ def main(preview_only: bool = False):
     print("\n🖼️  產生 HTML 報告...")
     html_preview = build_html(appstore_data, gplay_data)
     report_url   = os.getenv("REPORT_URL", "")
-    html_email   = build_email_html(appstore_data, gplay_data)
+    html_email   = build_email_html(appstore_data, gplay_data, report_url=report_url)
     subject      = build_subject()
 
     # 瀏覽器互動版
