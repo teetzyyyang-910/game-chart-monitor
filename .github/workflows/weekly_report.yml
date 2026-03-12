@@ -25,14 +25,6 @@ jobs:
           python -m playwright install chromium
           python -m playwright install-deps chromium
 
-      - name: Download previous snapshot
-        id: download-snapshot
-        uses: actions/download-artifact@v4
-        with:
-          name: rank-snapshot
-          path: .
-        continue-on-error: true
-
       - name: Run weekly report
         env:
           GMAIL_USER:         ${{ secrets.GMAIL_USER }}
@@ -44,22 +36,15 @@ jobs:
           GEMINI_API_KEY:     ${{ secrets.GEMINI_API_KEY }}
         run: python main.py
 
-      - name: Deploy report to GitHub Pages
+      - name: Save snapshot and deploy
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p reports
           cp preview_report.html reports/preview_report.html
           git add -f reports/preview_report.html
-          git diff --staged --quiet || git commit -m "📊 Update game chart report $(date +'%Y/%m/%d')"
+          git add -f rank_snapshot.json
+          git diff --staged --quiet || git commit -m "📊 Update report & snapshot $(date +'%Y/%m/%d')"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Save rank snapshot
-        uses: actions/upload-artifact@v4
-        with:
-          name: rank-snapshot
-          path: rank_snapshot.json
-          retention-days: 30
-          overwrite: true
