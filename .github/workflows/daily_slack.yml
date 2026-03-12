@@ -31,12 +31,14 @@ jobs:
           path: .
         continue-on-error: true
 
-      - name: Run Slack notification
+      - name: Run daily report and Slack notification
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           SLACK_CHANNEL:     ${{ secrets.SLACK_CHANNEL }}
           REPORT_URL:        ${{ secrets.REPORT_URL }}
-        run: python slack_notify.py
+        run: |
+          python main.py --preview
+          python slack_notify.py
 
       - name: Deploy report to GitHub Pages
         run: |
