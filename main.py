@@ -53,7 +53,11 @@ def main(preview_only: bool = False, send_slack: bool = False):
 
     # ── 5. 版更資訊 + AI 摘要 ────────────────────────────
     ai_summary = ""
-    if os.getenv("GEMINI_API_KEY") and previous.get("date"):
+    if not os.getenv("GEMINI_API_KEY"):
+        print("\n  ⚠️  未設定 GEMINI_API_KEY，跳過 AI 摘要")
+    elif not previous.get("date"):
+        print("\n  ℹ️  無上次快照，AI 分析將從下次執行開始")
+    else:
         print("\n🔍 抓取版更資訊...")
         notable = get_notable_games(appstore_data, gplay_data, min_change=3)
         print(f"   找到 {len(notable)} 個值得關注的遊戲")
@@ -64,8 +68,6 @@ def main(preview_only: bool = False, send_slack: bool = False):
             if ai_summary:
                 print("\n--- AI 摘要 ---")
                 print(ai_summary)
-    else:
-        print("\n  ⚠️  未設定 GEMINI_API_KEY，跳過 AI 摘要")
 
     # ── 6. 產生 HTML ──────────────────────────────────────
     print("\n🖼️  產生 HTML 報告...")
