@@ -296,7 +296,7 @@ def _static_region_block(region, appstore_data, gplay_data):
 
 
 
-def build_email_html(appstore_data: dict, gplay_data: dict, report_url: str = "") -> str:
+def build_email_html(appstore_data: dict, gplay_data: dict, report_url: str = "", ai_summary: str = "") -> str:
     """
     Email 版：5個重點地區 Top 5 + 排名變動摘要文字 + 完整報告連結
     """
@@ -400,6 +400,25 @@ def build_email_html(appstore_data: dict, gplay_data: dict, report_url: str = ""
     if report_url:
         link_html = f'<div style="margin-top:12px"><a href="{report_url}" style="display:inline-block;background:rgba(255,255,255,0.2);color:white;text-decoration:none;padding:8px 24px;border-radius:20px;font-size:13px;font-weight:600;border:1px solid rgba(255,255,255,0.5)">📊 查看完整地區報告</a></div>'
 
+    # AI 摘要區塊
+    if ai_summary:
+        import re
+        lines = ai_summary.strip().split("\n")
+        items = ""
+        for line in lines:
+            line = line.strip()
+            if line.startswith("•") or line.startswith("-"):
+                line = line.lstrip("•-").strip()
+                line = re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', line)
+                items += f'<li style="margin:5px 0;font-size:13px;color:#374151">{line}</li>'
+        ai_summary_html = f'''<div style="background:#fffbeb;border:1px solid #fde68a;border-radius:10px;padding:14px 16px;margin-bottom:16px">
+  <div style="font-weight:700;font-size:14px;color:#92400e;margin-bottom:8px">🤖 AI 分析：排名變動原因</div>
+  <ul style="margin:0;padding-left:16px">{items}</ul>
+  <div style="font-size:10px;color:#aaa;margin-top:6px">由 Gemini AI 根據版更資訊自動分析</div>
+</div>'''
+    else:
+        ai_summary_html = ""
+
     return f"""<!DOCTYPE html>
 <html lang="zh-Hant">
 <head><meta charset="UTF-8"></head>
@@ -418,6 +437,7 @@ def build_email_html(appstore_data: dict, gplay_data: dict, report_url: str = ""
     {highlight_html}
     <div style="font-size:10px;color:#aaa;margin-top:6px">▲▼ 5名以上變動 ｜ NEW 本週新進 Top 5</div>
   </div>
+  {ai_summary_html}
 
   <!-- 重點地區 Top 5 -->
   {regions_html}

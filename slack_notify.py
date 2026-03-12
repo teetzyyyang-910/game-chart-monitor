@@ -23,7 +23,7 @@ FOCUS_REGIONS = ["tw", "us", "jp"]
 CHANGE_THRESHOLD = 1
 
 
-def build_slack_message(appstore_data: dict, gplay_data: dict) -> list[dict]:
+def build_slack_message(appstore_data: dict, gplay_data: dict, ai_summary: str = "") -> list[dict]:
     """產生 Slack Block Kit 格式訊息"""
     today = datetime.now().strftime("%Y/%m/%d")
     blocks = [
@@ -105,6 +105,17 @@ def build_slack_message(appstore_data: dict, gplay_data: dict) -> list[dict]:
                 }
             }
         ]
+
+    # AI 摘要
+    if ai_summary:
+        blocks.append({"type": "divider"})
+        blocks.append({
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": f"*🤖 AI 分析：排名變動原因*\n{ai_summary}"
+            }
+        })
 
     # 加入完整報告連結
     report_url = os.getenv("REPORT_URL", "")

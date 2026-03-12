@@ -20,6 +20,8 @@ from fetchers.googleplay import fetch_all_regions as fetch_gplay
 from email_template      import build_html, build_email_html, build_subject
 from send_email          import send_email
 from rank_tracker        import load_previous, save_snapshot, add_rank_changes
+from fetch_release_notes import get_notable_games, enrich_with_notes
+from ai_summary          import summarize_rank_changes
 
 
 def main(preview_only: bool = False, send_slack: bool = False):
@@ -49,11 +51,29 @@ def main(preview_only: bool = False, send_slack: bool = False):
     # ── 4. 儲存本次快照 ───────────────────────────────────
     save_snapshot(appstore_data, gplay_data)
 
-    # ── 5. 產生 HTML ──────────────────────────────────────
+    # ── 5. 版更資訊 + AI 摘要 ────────────────────────────
+    ai_summary = ""
+    if os.getenv("GEMINI_API_KEY"):
+        print("\n🔍 抓取版更資訊...")
+        notable = get_notable_games(appstore_data, gplay_data, min_change=3)
+        print(f"   找到 {len(notable)} 個值得關注的遊戲")
+        if notable:
+            notable = enrich_with_notes(notable, REGIONS)
+            print("\n🤖 AI 分析排名變動原因...")
+            ai_summary = summarize_rank_changes(notable)
+            if ai_summary:
+                print("\n--- AI 摘要 ---")
+                print(ai_summary)
+    else:
+        print("\n  ⚠️  未設定 ANTHROPIC_API_KEY，跳過 AI 摘要")
+
+    # ── 6. 產生 HTML ──────────────────────────────────────
     print("\n🖼️  產生 HTML 報告...")
     html_preview = build_html(appstore_data, gplay_data)
     report_url   = os.getenv("REPORT_URL", "")
-    html_email   = build_email_html(appstore_data, gplay_data, report_url=report_url)
+    html_email   = build_email_html(appstore_data, gplay_data,
+                                    report_url=report_url,
+                                    ai_summary=ai_summary)
     subject      = build_subject()
 
     preview_path = Path("preview_report.html")
@@ -64,18 +84,18 @@ def main(preview_only: bool = False, send_slack: bool = False):
     email_path.write_text(html_email, encoding="utf-8")
     print("   Email版本：{}".format(email_path.resolve()))
 
-    # ── 6. 發送 Slack ─────────────────────────────────────
+    # ── 7. 發送 Slack ─────────────────────────────────────
     if send_slack:
         print("\n📨 發送 Slack 通知...")
         from slack_notify import build_slack_message, send_to_slack
-        blocks = build_slack_message(appstore_data, gplay_data)
+        blocks = build_slack_message(appstore_data, gplay_data, ai_summary=ai_summary)
         send_to_slack(blocks)
 
     if preview_only:
         print("\n✅ --preview 模式：僅產生 HTML，不寄信。")
         return
 
-    # ── 7. 寄信 ───────────────────────────────────────────
+    # ── 8. 寄信 ───────────────────────────────────────────
     print("\n📧 寄送郵件...")
     send_email(subject=subject, html_body=html_email)
 

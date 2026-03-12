@@ -36,6 +36,7 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           SLACK_CHANNEL:     ${{ secrets.SLACK_CHANNEL }}
           REPORT_URL:        ${{ secrets.REPORT_URL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python main.py --preview --slack
 
       - name: Deploy report to GitHub Pages
