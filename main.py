@@ -65,7 +65,7 @@ def main(preview_only: bool = False, send_slack: bool = False):
                 print("\n--- AI 摘要 ---")
                 print(ai_summary)
     else:
-        print("\n  ⚠️  未設定 ANTHROPIC_API_KEY，跳過 AI 摘要")
+        print("\n  ⚠️  未設定 GEMINI_API_KEY，跳過 AI 摘要")
 
     # ── 6. 產生 HTML ──────────────────────────────────────
     print("\n🖼️  產生 HTML 報告...")
