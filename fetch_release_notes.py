@@ -65,8 +65,10 @@ def get_notable_games(appstore_data: dict, gplay_data: dict, min_change: int = 3
                 if rank > 10:
                     continue
 
-                is_notable = (change is None) or (change is not None and abs(change) >= min_change)
-                if is_notable and app_id and app_id not in seen:
+                # 新進榜只在 rank <= 3 才算，避免無快照時全部觸發
+                is_new = (change is None and rank <= 3)
+                is_moved = (change is not None and abs(change) >= min_change)
+                if (is_new or is_moved) and app_id and app_id not in seen:
                     seen.add(app_id)
                     notable.append({
                         "platform":   "appstore",
@@ -89,8 +91,9 @@ def get_notable_games(appstore_data: dict, gplay_data: dict, min_change: int = 3
                 if rank > 10:
                     continue
 
-                is_notable = (change is None) or (change is not None and abs(change) >= min_change)
-                if is_notable and app_id and app_id not in seen:
+                is_new = (change is None and rank <= 3)
+                is_moved = (change is not None and abs(change) >= min_change)
+                if (is_new or is_moved) and app_id and app_id not in seen:
                     seen.add(app_id)
                     notable.append({
                         "platform":   "gplay",

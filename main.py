@@ -53,7 +53,7 @@ def main(preview_only: bool = False, send_slack: bool = False):
 
     # ── 5. 版更資訊 + AI 摘要 ────────────────────────────
     ai_summary = ""
-    if os.getenv("GEMINI_API_KEY"):
+    if os.getenv("GEMINI_API_KEY") and previous.get("date"):
         print("\n🔍 抓取版更資訊...")
         notable = get_notable_games(appstore_data, gplay_data, min_change=3)
         print(f"   找到 {len(notable)} 個值得關注的遊戲")
