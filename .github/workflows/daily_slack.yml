@@ -8,6 +8,8 @@ on:
 jobs:
   slack-notify:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -35,6 +37,18 @@ jobs:
           SLACK_CHANNEL:     ${{ secrets.SLACK_CHANNEL }}
           REPORT_URL:        ${{ secrets.REPORT_URL }}
         run: python slack_notify.py
+
+      - name: Deploy report to GitHub Pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p reports
+          cp preview_report.html reports/preview_report.html
+          git add -f reports/preview_report.html
+          git diff --staged --quiet || git commit -m "📊 Update game chart report $(date +'%Y/%m/%d')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Save rank snapshot
         uses: actions/upload-artifact@v4
