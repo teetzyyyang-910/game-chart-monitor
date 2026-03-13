@@ -44,13 +44,14 @@ def summarize_rank_changes(notable_games: list) -> str:
 - 語氣專業精煉，每款遊戲一行
 - 格式：• **遊戲名稱**（地區/平台）：分析原因
 - 每行不超過 70 字，最多列出 8 款遊戲
-- 若有多個可能原因，以最主要的為主，用「；」連接次要原因"""
+- 若有多個可能原因，以最主要的為主，用「；」連接次要原因
+- 直接輸出分析結果，不要自我介紹、不要開場白、不要總結語"""
 
     try:
         url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
         resp = requests.post(
             url,
-            json={"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"maxOutputTokens": 600}},
+            json={"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"maxOutputTokens": 1500}},
             timeout=30,
         )
         data = resp.json()
