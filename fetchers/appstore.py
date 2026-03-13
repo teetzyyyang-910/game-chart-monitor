@@ -3,32 +3,41 @@ import re
 import time
 from config import TOP_N
 
-# top-free  = 免費遊戲榜
-# top-paid  = 付費遊戲榜（非 top-grossing）
 CHARTS = {
-    "top-free": "免費遊戲榜",
-    "top-paid": "付費遊戲榜",
+    "top-free": "免費排行",
+    "top-paid": "付費排行",
 }
-
 LOOKUP_URL = "https://itunes.apple.com/lookup"
-
 HEADERS = {
     "User-Agent":      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
     "Accept-Language": "en-US,en;q=0.9",
 }
 
 
-def _get_ids_from_page(country, chart):
+def _get_ids_from_page(country, chart, retries=3):
     url = "https://apps.apple.com/{}/iphone/charts/6014".format(country)
-    r = requests.get(url, params={"chart": chart}, headers=HEADERS, timeout=20)
-    r.raise_for_status()
-    ids = re.findall(r'/app/[^/"]+/id(\d{8,12})', r.text)
-    seen, unique = set(), []
-    for i in ids:
-        if i not in seen:
-            seen.add(i)
-            unique.append(i)
-    return unique
+    for attempt in range(retries):
+        try:
+            r = requests.get(url, params={"chart": chart}, headers=HEADERS, timeout=20)
+            if r.status_code == 429:
+                wait = 10 * (attempt + 1)
+                print("    [429] Too Many Requests，等待 {}s 後重試...".format(wait))
+                time.sleep(wait)
+                continue
+            r.raise_for_status()
+            ids = re.findall(r'/app/[^/"]+/id(\d{8,12})', r.text)
+            seen, unique = set(), []
+            for i in ids:
+                if i not in seen:
+                    seen.add(i)
+                    unique.append(i)
+            return unique
+        except Exception as e:
+            if attempt < retries - 1:
+                time.sleep(5)
+            else:
+                raise e
+    return []
 
 
 def _lookup(app_ids, country):
@@ -80,5 +89,5 @@ def fetch_all_regions(regions):
         results[c] = {}
         for k in CHARTS:
             results[c][k] = fetch_chart(c, k)
-            time.sleep(1.0)
+            time.sleep(2.0)  # 增加間隔避免 rate limit
     return results
