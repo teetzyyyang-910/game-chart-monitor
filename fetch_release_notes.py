@@ -105,7 +105,7 @@ def get_notable_games(appstore_data: dict, gplay_data: dict, min_change: int = 3
                         "chart":      chart_key,
                     })
 
-    return notable[:15]  # 最多分析 15 個，避免 API 費用過高
+    return notable[:8]   # 最多分析 8 個，控制 token 成本
 
 
 def enrich_with_notes(notable_games: list, regions: list) -> list:

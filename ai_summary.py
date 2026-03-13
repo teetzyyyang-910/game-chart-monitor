@@ -18,8 +18,8 @@ def summarize_rank_changes(notable_games: list) -> str:
     for g in notable_games:
         change_str = "新進榜" if g.get("rank_change") is None else f"排名變動 {'+' if g['rank_change'] > 0 else ''}{g['rank_change']}"
         notes = g.get("release_notes", "")
-        if notes and len(notes) > 500:
-            notes = notes[:500] + "..."
+        if notes and len(notes) > 200:
+            notes = notes[:200] + "..."
         games_info.append({
             "遊戲名稱":  g["name"],
             "平台":      "App Store" if g["platform"] == "appstore" else "Google Play",
@@ -50,7 +50,7 @@ def summarize_rank_changes(notable_games: list) -> str:
         url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
         resp = requests.post(
             url,
-            json={"contents": [{"parts": [{"text": prompt}]}]},
+            json={"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"maxOutputTokens": 600}},
             timeout=30,
         )
         data = resp.json()
