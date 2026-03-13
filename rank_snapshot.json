@@ -2,16 +2,1012 @@
   "date": "2026/03/13",
   "appstore": {
     "sg": {
-      "top-free": [],
-      "top-paid": []
+      "top-free": [
+        {
+          "rank": 1,
+          "name": "Free Fire MAX x JUJUTSU KAISEN",
+          "developer": "GARENA INTERNATIONAL I PRIVATE LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/9e/eb/089eeb26-8f77-2f1e-63b3-1a34b1fc6b7f/AppIcon-1770035912-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1480516829",
+          "url": "https://apps.apple.com/sg/app/id1480516829",
+          "genre": "Games",
+          "score": 3.8,
+          "rank_change": null
+        },
+        {
+          "rank": 2,
+          "name": "Free Fire x JUJUTSU KAISEN",
+          "developer": "GARENA INTERNATIONAL I PRIVATE LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/8d/ba/4b8dba37-a240-f450-9f99-c3a611c96536/AppIcon-1767797054-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1300146617",
+          "url": "https://apps.apple.com/sg/app/id1300146617",
+          "genre": "Games",
+          "score": 3.7,
+          "rank_change": null
+        },
+        {
+          "rank": 3,
+          "name": "Mobile Legends: Bang Bang",
+          "developer": "MOONTON",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/bc/08/0cbc0831-fc0c-0142-4eee-5d352f820c53/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "app_id": "1160056295",
+          "url": "https://apps.apple.com/sg/app/id1160056295",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 4,
+          "name": "PUBG MOBILE",
+          "developer": "Tencent Mobile International Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/13/c2/1013c2bb-c728-f6e0-073e-54879d5820e9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "app_id": "1330123889",
+          "url": "https://apps.apple.com/sg/app/id1330123889",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 5,
+          "name": "Kuroko's Basketball: SR",
+          "developer": "LMD Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/24/51/d324515e-0f8b-66f0-6853-0ea83c4216ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6755416367",
+          "url": "https://apps.apple.com/sg/app/id6755416367",
+          "genre": "Games",
+          "score": 2.3,
+          "rank_change": null
+        },
+        {
+          "rank": 6,
+          "name": "Block Blast!",
+          "developer": "Hungry Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/1c/e6/681ce6fc-7a6b-e5e4-6911-f451ed9a3da0/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.jpg",
+          "app_id": "1617391485",
+          "url": "https://apps.apple.com/sg/app/id1617391485",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 7,
+          "name": "eFootball™",
+          "developer": "KONAMI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/c6/d4/7ec6d43d-8c11-6545-5413-d600bf741c96/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1117270703",
+          "url": "https://apps.apple.com/sg/app/id1117270703",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 8,
+          "name": "8 Ball Pool™",
+          "developer": "Miniclip.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/48/66/9f48669b-06b9-011d-b320-d71e2ed49c3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "543186831",
+          "url": "https://apps.apple.com/sg/app/id543186831",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 9,
+          "name": "Pongz - SG Mahjong",
+          "developer": "Pixelstack Studios Pte Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/77/72/6f777254-2ca9-c064-e450-2f693b58d87f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6755418562",
+          "url": "https://apps.apple.com/sg/app/id6755418562",
+          "genre": "Games",
+          "score": 4.1,
+          "rank_change": null
+        },
+        {
+          "rank": 10,
+          "name": "Vita Mahjong",
+          "developer": "Vita Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/52/51/1852512d-0126-1cc0-972e-1bd1054e2065/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6468921495",
+          "url": "https://apps.apple.com/sg/app/id6468921495",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 11,
+          "name": "Roblox",
+          "developer": "Roblox Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/83/3d/84833d8c-fd97-2751-6f09-4fff16c86a5a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+          "app_id": "431946152",
+          "url": "https://apps.apple.com/sg/app/id431946152",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 12,
+          "name": "Subway Surfers",
+          "developer": "Sybo Games ApS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ac/4e/98ac4ed7-7da4-c5ae-8bea-c2adc70b7960/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "512939461",
+          "url": "https://apps.apple.com/sg/app/id512939461",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 13,
+          "name": "Clash of Clans",
+          "developer": "Supercell",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/8b/1c/068b1c5d-f74b-1d8b-f1db-b233ca4086d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "529479190",
+          "url": "https://apps.apple.com/sg/app/id529479190",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 14,
+          "name": "Hay Day",
+          "developer": "Supercell",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/b3/a0/1bb3a0d7-ea3d-78d5-ec67-97ff983c8d38/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "506627515",
+          "url": "https://apps.apple.com/sg/app/id506627515",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 15,
+          "name": "EA SPORTS FC™ Mobile Football",
+          "developer": "Electronic Arts",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/f6/c1/1ef6c173-2e6f-a89a-f17f-79c750497fcf/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1094930513",
+          "url": "https://apps.apple.com/sg/app/id1094930513",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        }
+      ],
+      "top-paid": [
+        {
+          "rank": 1,
+          "name": "Minecraft: Dream it, Build it!",
+          "developer": "Mojang",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ee/ac/28eeaccb-af5b-ec8a-3091-a76991a65264/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+          "app_id": "479516143",
+          "url": "https://apps.apple.com/sg/app/id479516143",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 2,
+          "name": "Slay the Spire",
+          "developer": "Humble Bundle",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/0c/92/910c920a-0ab6-1939-e297-083995b640c7/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1491530147",
+          "url": "https://apps.apple.com/sg/app/id1491530147",
+          "genre": "Games",
+          "score": 4.0,
+          "rank_change": null
+        },
+        {
+          "rank": 3,
+          "name": "Geometry Dash",
+          "developer": "RobTop Games AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d5/97/5ad5971d-b8ea-d82f-415f-f69be6bde65c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "625334537",
+          "url": "https://apps.apple.com/sg/app/id625334537",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 4,
+          "name": "Balatro",
+          "developer": "Playstack Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/d3/0c/6dd30caf-f830-22d5-ba44-448cdff0df30/iOS_AppIcon_Premium-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "app_id": "6502453075",
+          "url": "https://apps.apple.com/sg/app/id6502453075",
+          "genre": "Games",
+          "score": 5.0,
+          "rank_change": null
+        },
+        {
+          "rank": 5,
+          "name": "Papa's Freezeria To Go!",
+          "developer": "Flipline Studios",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/44/d1/bb/44d1bb03-8871-ff83-c212-5c55b0f335a6/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.jpg",
+          "app_id": "824305459",
+          "url": "https://apps.apple.com/sg/app/id824305459",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 6,
+          "name": "RFS - Real Flight Simulator",
+          "developer": "RORTOS SRL",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/f5/c3c6f532-1cf8-f2c9-2dee-70b2200e4c1c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1444761746",
+          "url": "https://apps.apple.com/sg/app/id1444761746",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 7,
+          "name": "Stardew Valley",
+          "developer": "ConcernedApe",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/e0/e5/43e0e534-98da-6adf-b6f3-1df01c9c9f81/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1406710800",
+          "url": "https://apps.apple.com/sg/app/id1406710800",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 8,
+          "name": "Is This Seat Taken?",
+          "developer": "Poti Poti Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/24/d5/1624d5e2-611f-9cee-cb5e-e596962c809f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6747814605",
+          "url": "https://apps.apple.com/sg/app/id6747814605",
+          "genre": "Games",
+          "score": 5,
+          "rank_change": null
+        },
+        {
+          "rank": 9,
+          "name": "Road to Empress I",
+          "developer": "Sixjoy Hong Kong Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/8b/7b/f68b7b45-c32a-e0b9-a6f4-37afe80e8f88/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "6741892043",
+          "url": "https://apps.apple.com/sg/app/id6741892043",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 10,
+          "name": "Bloons TD 6",
+          "developer": "Ninja Kiwi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/04/96/d0049697-4c34-48ae-47b9-d614731a279c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1118115766",
+          "url": "https://apps.apple.com/sg/app/id1118115766",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 11,
+          "name": "Partner In Crime",
+          "developer": "Triomatica Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ae/68/28ae689c-67a9-0989-9309-4b836452ecb4/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "6745148842",
+          "url": "https://apps.apple.com/sg/app/id6745148842",
+          "genre": "Games",
+          "score": 0,
+          "rank_change": null
+        },
+        {
+          "rank": 12,
+          "name": "Plague Inc.",
+          "developer": "Ndemic Creations",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/ea/9c/f2ea9c2a-3e9d-9548-5d40-bc4da75bb327/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.jpg",
+          "app_id": "525818839",
+          "url": "https://apps.apple.com/sg/app/id525818839",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 13,
+          "name": "Don't Starve: Pocket Edition",
+          "developer": "Klei",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/03/29/5e/03295e4c-5637-9419-83e5-e9939e90370c/Normal_Icon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+          "app_id": "1012298403",
+          "url": "https://apps.apple.com/sg/app/id1012298403",
+          "genre": "Games",
+          "score": 3.9,
+          "rank_change": null
+        },
+        {
+          "rank": 14,
+          "name": "One Way: The Elevator",
+          "developer": "COTTONGAME Network Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/0b/19/1c0b19d3-236a-75f2-69c3-11b115f7a1c9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1027403357",
+          "url": "https://apps.apple.com/sg/app/id1027403357",
+          "genre": "Games",
+          "score": 0,
+          "rank_change": null
+        },
+        {
+          "rank": 15,
+          "name": "Demon Castle Story",
+          "developer": "Kairosoft Co.,Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/38/54/b9385412-f5c5-0bc0-d322-a9f4b49e850e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6749560544",
+          "url": "https://apps.apple.com/sg/app/id6749560544",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        }
+      ]
     },
     "my": {
-      "top-free": [],
-      "top-paid": []
+      "top-free": [
+        {
+          "rank": 1,
+          "name": "Mobile Legends: Bang Bang",
+          "developer": "MOONTON",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/bc/08/0cbc0831-fc0c-0142-4eee-5d352f820c53/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "app_id": "1160056295",
+          "url": "https://apps.apple.com/my/app/id1160056295",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 2,
+          "name": "Block Blast!",
+          "developer": "Hungry Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/1c/e6/681ce6fc-7a6b-e5e4-6911-f451ed9a3da0/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.jpg",
+          "app_id": "1617391485",
+          "url": "https://apps.apple.com/my/app/id1617391485",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 3,
+          "name": "Roblox",
+          "developer": "Roblox Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/83/3d/84833d8c-fd97-2751-6f09-4fff16c86a5a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+          "app_id": "431946152",
+          "url": "https://apps.apple.com/my/app/id431946152",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 4,
+          "name": "PUBG MOBILE",
+          "developer": "Tencent Mobile International Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/13/c2/1013c2bb-c728-f6e0-073e-54879d5820e9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "app_id": "1330123889",
+          "url": "https://apps.apple.com/my/app/id1330123889",
+          "genre": "Games",
+          "score": 4.3,
+          "rank_change": null
+        },
+        {
+          "rank": 5,
+          "name": "Kuroko's Basketball: SR",
+          "developer": "LMD Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/24/51/d324515e-0f8b-66f0-6853-0ea83c4216ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6755416367",
+          "url": "https://apps.apple.com/my/app/id6755416367",
+          "genre": "Games",
+          "score": 3.3,
+          "rank_change": null
+        },
+        {
+          "rank": 6,
+          "name": "Free Fire x JUJUTSU KAISEN",
+          "developer": "GARENA INTERNATIONAL I PRIVATE LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/8d/ba/4b8dba37-a240-f450-9f99-c3a611c96536/AppIcon-1767797054-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1300146617",
+          "url": "https://apps.apple.com/my/app/id1300146617",
+          "genre": "Games",
+          "score": 4.0,
+          "rank_change": null
+        },
+        {
+          "rank": 7,
+          "name": "Magic Tiles 3: Piano Game",
+          "developer": "Amanotes Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/0c/de/b20cde1b-26b7-8002-e097-e48017b6fa12/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1443446174",
+          "url": "https://apps.apple.com/my/app/id1443446174",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 8,
+          "name": "Kingshot",
+          "developer": "Century Games Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/18/8a/f6188a14-83a7-d226-6f1d-29a58fd2fc09/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6739554056",
+          "url": "https://apps.apple.com/my/app/id6739554056",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 9,
+          "name": "Subway Surfers",
+          "developer": "Sybo Games ApS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ac/4e/98ac4ed7-7da4-c5ae-8bea-c2adc70b7960/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "512939461",
+          "url": "https://apps.apple.com/my/app/id512939461",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 10,
+          "name": "8 Ball Pool™",
+          "developer": "Miniclip.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/48/66/9f48669b-06b9-011d-b320-d71e2ed49c3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "543186831",
+          "url": "https://apps.apple.com/my/app/id543186831",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 11,
+          "name": "eFootball™",
+          "developer": "KONAMI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/c6/d4/7ec6d43d-8c11-6545-5413-d600bf741c96/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1117270703",
+          "url": "https://apps.apple.com/my/app/id1117270703",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 12,
+          "name": "The Cozy Florist",
+          "developer": "RiftSky Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/ce/f3/35cef348-9f27-3076-14ca-d0816e5179db/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+          "app_id": "6754878717",
+          "url": "https://apps.apple.com/my/app/id6754878717",
+          "genre": "Games",
+          "score": 4.3,
+          "rank_change": null
+        },
+        {
+          "rank": 13,
+          "name": "Among Us!",
+          "developer": "InnerSloth LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/8f/fb/6c8ffb21-53c4-1fae-7095-d3224c584a1b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1351168404",
+          "url": "https://apps.apple.com/my/app/id1351168404",
+          "genre": "Games",
+          "score": 3.6,
+          "rank_change": null
+        },
+        {
+          "rank": 14,
+          "name": "Township",
+          "developer": "Playrix",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/71/72/b7717267-e128-d6c5-1d57-6d2fc62835bb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+          "app_id": "638689075",
+          "url": "https://apps.apple.com/my/app/id638689075",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 15,
+          "name": "Candy Crush Saga",
+          "developer": "King",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/8c/80/3d8c80f1-43b4-b7d7-c365-c60742adbedf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "553834731",
+          "url": "https://apps.apple.com/my/app/id553834731",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        }
+      ],
+      "top-paid": [
+        {
+          "rank": 1,
+          "name": "Minecraft: Dream it, Build it!",
+          "developer": "Mojang",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ee/ac/28eeaccb-af5b-ec8a-3091-a76991a65264/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+          "app_id": "479516143",
+          "url": "https://apps.apple.com/my/app/id479516143",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 2,
+          "name": "Grand Theft Auto: San Andreas",
+          "developer": "Rockstar Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/02/f2/c002f295-cf73-0278-8e73-d8d1f9e7a9af/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "app_id": "763692274",
+          "url": "https://apps.apple.com/my/app/id763692274",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 3,
+          "name": "RFS - Real Flight Simulator",
+          "developer": "RORTOS SRL",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/f5/c3c6f532-1cf8-f2c9-2dee-70b2200e4c1c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1444761746",
+          "url": "https://apps.apple.com/my/app/id1444761746",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 4,
+          "name": "Pou",
+          "developer": "Zakeh Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/2f/de/952fde20-6ec7-068b-fa9d-69c654410b1a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.jpg",
+          "app_id": "575154654",
+          "url": "https://apps.apple.com/my/app/id575154654",
+          "genre": "Games",
+          "score": 4.1,
+          "rank_change": null
+        },
+        {
+          "rank": 5,
+          "name": "Monoposto",
+          "developer": "Marco Pesce",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/68/b1/7468b13e-4f7d-7128-fbe8-e84a80b7a23a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1262474519",
+          "url": "https://apps.apple.com/my/app/id1262474519",
+          "genre": "Games",
+          "score": 4.3,
+          "rank_change": null
+        },
+        {
+          "rank": 6,
+          "name": "Papa's Freezeria To Go!",
+          "developer": "Flipline Studios",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/44/d1/bb/44d1bb03-8871-ff83-c212-5c55b0f335a6/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.jpg",
+          "app_id": "824305459",
+          "url": "https://apps.apple.com/my/app/id824305459",
+          "genre": "Games",
+          "score": 3.5,
+          "rank_change": null
+        },
+        {
+          "rank": 7,
+          "name": "Stardew Valley",
+          "developer": "ConcernedApe",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/e0/e5/43e0e534-98da-6adf-b6f3-1df01c9c9f81/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1406710800",
+          "url": "https://apps.apple.com/my/app/id1406710800",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 8,
+          "name": "Balatro",
+          "developer": "Playstack Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/d3/0c/6dd30caf-f830-22d5-ba44-448cdff0df30/iOS_AppIcon_Premium-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "app_id": "6502453075",
+          "url": "https://apps.apple.com/my/app/id6502453075",
+          "genre": "Games",
+          "score": 5.0,
+          "rank_change": null
+        },
+        {
+          "rank": 9,
+          "name": "Geometry Dash",
+          "developer": "RobTop Games AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d5/97/5ad5971d-b8ea-d82f-415f-f69be6bde65c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "625334537",
+          "url": "https://apps.apple.com/my/app/id625334537",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 10,
+          "name": "Plague Inc.",
+          "developer": "Ndemic Creations",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/ea/9c/f2ea9c2a-3e9d-9548-5d40-bc4da75bb327/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.jpg",
+          "app_id": "525818839",
+          "url": "https://apps.apple.com/my/app/id525818839",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 11,
+          "name": "Poppy Playtime Chapter 4",
+          "developer": "Mob Entertainment, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/96/da/1596da58-cb6b-d99b-cea4-91dceadc79fd/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "6746137187",
+          "url": "https://apps.apple.com/my/app/id6746137187",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 12,
+          "name": "Aerofly FS Global",
+          "developer": "IPACS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/41/b1/ce41b1de-cfa7-da61-8064-9c7cb1f8da45/AppIconiOS-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "app_id": "6473001577",
+          "url": "https://apps.apple.com/my/app/id6473001577",
+          "genre": "Games",
+          "score": 4.3,
+          "rank_change": null
+        },
+        {
+          "rank": 13,
+          "name": "Terraria",
+          "developer": "505 Games (US), Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/b4/b5/e3b4b558-8736-9c0a-ac28-6bc57141c6bd/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "640364616",
+          "url": "https://apps.apple.com/my/app/id640364616",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 14,
+          "name": "Poppy Playtime Chapter 1",
+          "developer": "Mob Entertainment, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/e1/ab/40e1abb0-cfcb-1efb-2eac-f8b274028e8c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+          "app_id": "1610947489",
+          "url": "https://apps.apple.com/my/app/id1610947489",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 15,
+          "name": "Earn to Die 2",
+          "developer": "Not Doppler",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/cc/ab/feccab35-76b9-2ffa-7a6a-40ea9af24707/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "891194610",
+          "url": "https://apps.apple.com/my/app/id891194610",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        }
+      ]
     },
     "tw": {
-      "top-free": [],
-      "top-paid": []
+      "top-free": [
+        {
+          "rank": 1,
+          "name": "Pikmin Bloom",
+          "developer": "Niantic, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/2a/83/cf2a8358-2a52-03b4-1278-523154d60ba7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1556357398",
+          "url": "https://apps.apple.com/tw/app/id1556357398",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 2,
+          "name": "VAMPIR：血之繼承者",
+          "developer": "Netmarble Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/c6/aa/bec6aa83-d7ba-d461-53f9-13abb6a5b1ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6738163891",
+          "url": "https://apps.apple.com/tw/app/id6738163891",
+          "genre": "Games",
+          "score": 3.3,
+          "rank_change": null
+        },
+        {
+          "rank": 3,
+          "name": "不正經魔王軍",
+          "developer": "Fun Journey Network Technology Co., Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/2a/a6/5e2aa65f-b765-a59b-6c7d-d910b907d265/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+          "app_id": "6758982655",
+          "url": "https://apps.apple.com/tw/app/id6758982655",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 4,
+          "name": "咻咻史萊姆 - 跟著咖波輕鬆放置",
+          "developer": "X-LEGEND ENTERTAINMENT CO., LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/af/f4/32aff4a0-c15e-e6c7-afc0-52f12de1a66c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6756606270",
+          "url": "https://apps.apple.com/tw/app/id6756606270",
+          "genre": "Games",
+          "score": 4.3,
+          "rank_change": null
+        },
+        {
+          "rank": 5,
+          "name": "Order Crazy - 顏色分類水排序拼圖小遊戲",
+          "developer": "Snap Brain Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/6d/5b/156d5b50-2a75-d2f0-bdab-8ca106f15242/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "app_id": "6751222488",
+          "url": "https://apps.apple.com/tw/app/id6751222488",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 6,
+          "name": "Block Blast!",
+          "developer": "Hungry Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/1c/e6/681ce6fc-7a6b-e5e4-6911-f451ed9a3da0/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.jpg",
+          "app_id": "1617391485",
+          "url": "https://apps.apple.com/tw/app/id1617391485",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 7,
+          "name": "細胞保衛戰 - 生存射擊大亂鬥",
+          "developer": "Snap Brain Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/1e/e6/6f1ee6ba-1b5d-6374-d70e-d5b4ca671ed0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "app_id": "6746465127",
+          "url": "https://apps.apple.com/tw/app/id6746465127",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 8,
+          "name": "勇者來開團",
+          "developer": "Joy Net Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/37/af/6137afd8-d647-43a3-4ef6-249d85928563/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+          "app_id": "6753970194",
+          "url": "https://apps.apple.com/tw/app/id6753970194",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 9,
+          "name": "MLB 制勝時刻 26",
+          "developer": "WILD CALY PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/95/2a/56952abc-0425-f800-2e0e-40631e7c33af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6462846417",
+          "url": "https://apps.apple.com/tw/app/id6462846417",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 10,
+          "name": "心動小鎮",
+          "developer": "XD Entertainment Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/cd/b2/dccdb254-82c8-8a85-b469-0ca1e7c5f652/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "6746151928",
+          "url": "https://apps.apple.com/tw/app/id6746151928",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 11,
+          "name": "LINE 熊大農場",
+          "developer": "LINE Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/4b/91/804b9138-2d8a-14b9-c523-c9ec9747b644/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "949344041",
+          "url": "https://apps.apple.com/tw/app/id949344041",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 12,
+          "name": "Kingshot",
+          "developer": "Century Games Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/18/8a/f6188a14-83a7-d226-6f1d-29a58fd2fc09/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6739554056",
+          "url": "https://apps.apple.com/tw/app/id6739554056",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 13,
+          "name": "Jewel Coloring",
+          "developer": "Ta Ta Game Technology Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/10/85/f4108591-6856-8cf3-e7aa-1593091d8553/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6759081967",
+          "url": "https://apps.apple.com/tw/app/id6759081967",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 14,
+          "name": "靈龍谷 - 孵化與養成",
+          "developer": "Runaway",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/b2/2d/d0b22dcd-4962-de61-d0c6-9034d032cd8c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6746389113",
+          "url": "https://apps.apple.com/tw/app/id6746389113",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 15,
+          "name": "紙牌接龍 – 單字遊戲",
+          "developer": "Hitapps Games LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/38/a3/b338a319-32fe-4415-bd6c-9bdc07b564ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6748950306",
+          "url": "https://apps.apple.com/tw/app/id6748950306",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        }
+      ],
+      "top-paid": [
+        {
+          "rank": 1,
+          "name": "Minecraft",
+          "developer": "Mojang",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ee/ac/28eeaccb-af5b-ec8a-3091-a76991a65264/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+          "app_id": "479516143",
+          "url": "https://apps.apple.com/tw/app/id479516143",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 2,
+          "name": "Slay the Spire",
+          "developer": "Humble Bundle",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/0c/92/910c920a-0ab6-1939-e297-083995b640c7/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1491530147",
+          "url": "https://apps.apple.com/tw/app/id1491530147",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 3,
+          "name": "Religion inc.上帝模擬器",
+          "developer": "GameFirst LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/85/2d/d6852d98-f9bd-c8f7-cf0e-b2c95610f497/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1484622401",
+          "url": "https://apps.apple.com/tw/app/id1484622401",
+          "genre": "Games",
+          "score": 3.9,
+          "rank_change": null
+        },
+        {
+          "rank": 4,
+          "name": "西瓜遊戲 Planet",
+          "developer": "XGIMI LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/fd/8b/6bfd8bc8-abe6-511d-a115-94cc5126f559/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6755215139",
+          "url": "https://apps.apple.com/tw/app/id6755215139",
+          "genre": "Games",
+          "score": 0,
+          "rank_change": null
+        },
+        {
+          "rank": 5,
+          "name": "Plague Inc. (瘟疫公司)",
+          "developer": "Ndemic Creations",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/ea/9c/f2ea9c2a-3e9d-9548-5d40-bc4da75bb327/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.jpg",
+          "app_id": "525818839",
+          "url": "https://apps.apple.com/tw/app/id525818839",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 6,
+          "name": "Unboxing the Cryptic Killer",
+          "developer": "Eleven Products Sp. z o.o.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/49/23/ad492327-aaf9-5c91-b332-1a0acfdcd27c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6448352407",
+          "url": "https://apps.apple.com/tw/app/id6448352407",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 7,
+          "name": "金武江湖 - 單機金庸群俠傳復刻",
+          "developer": "Suzhou Sweet potato network technology Co.,Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/48/f1/da48f1de-dd9a-33da-e003-910a03f05d73/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+          "app_id": "6502623166",
+          "url": "https://apps.apple.com/tw/app/id6502623166",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 8,
+          "name": "Balatro",
+          "developer": "Playstack Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/d3/0c/6dd30caf-f830-22d5-ba44-448cdff0df30/iOS_AppIcon_Premium-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "app_id": "6502453075",
+          "url": "https://apps.apple.com/tw/app/id6502453075",
+          "genre": "Games",
+          "score": 5.0,
+          "rank_change": null
+        },
+        {
+          "rank": 9,
+          "name": "Stardew Valley",
+          "developer": "ConcernedApe",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/e0/e5/43e0e534-98da-6adf-b6f3-1df01c9c9f81/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1406710800",
+          "url": "https://apps.apple.com/tw/app/id1406710800",
+          "genre": "Games",
+          "score": 4.3,
+          "rank_change": null
+        },
+        {
+          "rank": 10,
+          "name": "東京電車",
+          "developer": "masahiro goto",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/7f/a3/e17fa3e9-07d9-b613-a862-4f25b914b8e8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1642139491",
+          "url": "https://apps.apple.com/tw/app/id1642139491",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 11,
+          "name": "Outhold",
+          "developer": "MinMax Software AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/c5/44/efc54403-3bb5-dfab-5d2b-263fa2cc3739/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.jpg",
+          "app_id": "6758839020",
+          "url": "https://apps.apple.com/tw/app/id6758839020",
+          "genre": "Games",
+          "score": 5,
+          "rank_change": null
+        },
+        {
+          "rank": 12,
+          "name": "This War of Mine",
+          "developer": "11 bit studios s.a.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/0f/06/890f065c-f242-d12b-c833-407119d67c3f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+          "app_id": "982175678",
+          "url": "https://apps.apple.com/tw/app/id982175678",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 13,
+          "name": "戰車撞殭屍2 (Earn to Die 2)",
+          "developer": "Not Doppler",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/cc/ab/feccab35-76b9-2ffa-7a6a-40ea9af24707/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "891194610",
+          "url": "https://apps.apple.com/tw/app/id891194610",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 14,
+          "name": "スイカゲーム-Aladdin X",
+          "developer": "XGIMI LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/8a/a0/b88aa0c2-e9ff-48df-9153-a9ad92e17fd2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6469114836",
+          "url": "https://apps.apple.com/tw/app/id6469114836",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 15,
+          "name": "泰拉瑞亞",
+          "developer": "X.D. Network Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/04/bb/0804bbcd-3231-e6cd-db4e-2f00a6f785ac/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "app_id": "1609910024",
+          "url": "https://apps.apple.com/tw/app/id1609910024",
+          "genre": "Games",
+          "score": 3.0,
+          "rank_change": null
+        }
+      ]
     },
     "jp": {
       "top-free": [
@@ -35,7 +1031,7 @@
           "url": "https://apps.apple.com/jp/app/id6751222488",
           "genre": "Games",
           "score": 4.7,
-          "rank_change": 2
+          "rank_change": 0
         },
         {
           "rank": 3,
@@ -57,7 +1053,7 @@
           "url": "https://apps.apple.com/jp/app/id6475757306",
           "genre": "Games",
           "score": 4.7,
-          "rank_change": -2
+          "rank_change": 0
         },
         {
           "rank": 5,
@@ -79,7 +1075,7 @@
           "url": "https://apps.apple.com/jp/app/id6746465127",
           "genre": "Games",
           "score": 4.7,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 7,
@@ -90,7 +1086,7 @@
           "url": "https://apps.apple.com/jp/app/id1229016807",
           "genre": "Games",
           "score": 4.6,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 8,
@@ -101,7 +1097,7 @@
           "url": "https://apps.apple.com/jp/app/id6748950306",
           "genre": "Games",
           "score": 4.4,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 9,
@@ -112,7 +1108,7 @@
           "url": "https://apps.apple.com/jp/app/id6755577882",
           "genre": "Games",
           "score": 2.3,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 10,
@@ -123,7 +1119,7 @@
           "url": "https://apps.apple.com/jp/app/id6759081967",
           "genre": "Games",
           "score": 4.2,
-          "rank_change": 2
+          "rank_change": 0
         },
         {
           "rank": 11,
@@ -134,7 +1130,7 @@
           "url": "https://apps.apple.com/jp/app/id6746151928",
           "genre": "Games",
           "score": 4.6,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 12,
@@ -145,7 +1141,7 @@
           "url": "https://apps.apple.com/jp/app/id6751056652",
           "genre": "Games",
           "score": 4.3,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 13,
@@ -156,7 +1152,7 @@
           "url": "https://apps.apple.com/jp/app/id1623318294",
           "genre": "Games",
           "score": 4.4,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 14,
@@ -167,7 +1163,7 @@
           "url": "https://apps.apple.com/jp/app/id6743385713",
           "genre": "Games",
           "score": 4.8,
-          "rank_change": null
+          "rank_change": 0
         },
         {
           "rank": 15,
@@ -178,7 +1174,7 @@
           "url": "https://apps.apple.com/jp/app/id6753738566",
           "genre": "Games",
           "score": 4.3,
-          "rank_change": -2
+          "rank_change": 0
         }
       ],
       "top-paid": [
@@ -257,7 +1253,7 @@
           "url": "https://apps.apple.com/jp/app/id6758508981",
           "genre": "Games",
           "score": 0,
-          "rank_change": null
+          "rank_change": 0
         },
         {
           "rank": 8,
@@ -268,7 +1264,7 @@
           "url": "https://apps.apple.com/jp/app/id1496918059",
           "genre": "Games",
           "score": 3.7,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 9,
@@ -279,7 +1275,7 @@
           "url": "https://apps.apple.com/jp/app/id6547834967",
           "genre": "Games",
           "score": 4.8,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 10,
@@ -290,7 +1286,7 @@
           "url": "https://apps.apple.com/jp/app/id6754894237",
           "genre": "Games",
           "score": 4.9,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 11,
@@ -312,7 +1308,7 @@
           "url": "https://apps.apple.com/jp/app/id6463375487",
           "genre": "Games",
           "score": 4.5,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 13,
@@ -323,7 +1319,7 @@
           "url": "https://apps.apple.com/jp/app/id6572290447",
           "genre": "Games",
           "score": 4.3,
-          "rank_change": -3
+          "rank_change": 0
         },
         {
           "rank": 14,
@@ -334,7 +1330,7 @@
           "url": "https://apps.apple.com/jp/app/id6759427578",
           "genre": "Games",
           "score": 4.8,
-          "rank_change": -2
+          "rank_change": 0
         },
         {
           "rank": 15,
@@ -345,7 +1341,7 @@
           "url": "https://apps.apple.com/jp/app/id6749560544",
           "genre": "Games",
           "score": 4.8,
-          "rank_change": null
+          "rank_change": 0
         }
       ]
     },
@@ -382,7 +1378,7 @@
           "url": "https://apps.apple.com/kr/app/id6479204992",
           "genre": "Games",
           "score": 4.4,
-          "rank_change": 2
+          "rank_change": 0
         },
         {
           "rank": 4,
@@ -393,7 +1389,7 @@
           "url": "https://apps.apple.com/kr/app/id6756989323",
           "genre": "Games",
           "score": 4.8,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 5,
@@ -404,7 +1400,7 @@
           "url": "https://apps.apple.com/kr/app/id1617391485",
           "genre": "Games",
           "score": 4.7,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 6,
@@ -415,7 +1411,7 @@
           "url": "https://apps.apple.com/kr/app/id6748950306",
           "genre": "Games",
           "score": 4.4,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 7,
@@ -426,7 +1422,7 @@
           "url": "https://apps.apple.com/kr/app/id6751222488",
           "genre": "Games",
           "score": 4.6,
-          "rank_change": 4
+          "rank_change": 0
         },
         {
           "rank": 8,
@@ -437,7 +1433,7 @@
           "url": "https://apps.apple.com/kr/app/id6475757306",
           "genre": "Games",
           "score": 4.7,
-          "rank_change": -2
+          "rank_change": 0
         },
         {
           "rank": 9,
@@ -448,7 +1444,7 @@
           "url": "https://apps.apple.com/kr/app/id6746151928",
           "genre": "Games",
           "score": 4.6,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 10,
@@ -459,7 +1455,7 @@
           "url": "https://apps.apple.com/kr/app/id6757590968",
           "genre": "Games",
           "score": 4.5,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 11,
@@ -470,7 +1466,7 @@
           "url": "https://apps.apple.com/kr/app/id6756482832",
           "genre": "Games",
           "score": 4.6,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 12,
@@ -481,7 +1477,7 @@
           "url": "https://apps.apple.com/kr/app/id1366526331",
           "genre": "Games",
           "score": 3.8,
-          "rank_change": 2
+          "rank_change": 0
         },
         {
           "rank": 13,
@@ -492,7 +1488,7 @@
           "url": "https://apps.apple.com/kr/app/id6746465127",
           "genre": "Games",
           "score": 4.5,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 14,
@@ -503,7 +1499,7 @@
           "url": "https://apps.apple.com/kr/app/id6739554056",
           "genre": "Games",
           "score": 4.7,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 15,
@@ -560,7 +1556,7 @@
           "url": "https://apps.apple.com/kr/app/id1406710800",
           "genre": "Games",
           "score": 4.7,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 5,
@@ -571,7 +1567,7 @@
           "url": "https://apps.apple.com/kr/app/id6754894237",
           "genre": "Games",
           "score": 4.7,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 6,
@@ -593,7 +1589,7 @@
           "url": "https://apps.apple.com/kr/app/id6502453075",
           "genre": "Games",
           "score": 5.0,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 8,
@@ -604,7 +1600,7 @@
           "url": "https://apps.apple.com/kr/app/id625334537",
           "genre": "Games",
           "score": 3.8,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 9,
@@ -615,7 +1611,7 @@
           "url": "https://apps.apple.com/kr/app/id1456547302",
           "genre": "Games",
           "score": 4.8,
-          "rank_change": -2
+          "rank_change": 0
         },
         {
           "rank": 10,
@@ -648,7 +1644,7 @@
           "url": "https://apps.apple.com/kr/app/id575154654",
           "genre": "Games",
           "score": 3.1,
-          "rank_change": null
+          "rank_change": 0
         },
         {
           "rank": 13,
@@ -659,7 +1655,7 @@
           "url": "https://apps.apple.com/kr/app/id1596736236",
           "genre": "Games",
           "score": 4.7,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 14,
@@ -670,7 +1666,7 @@
           "url": "https://apps.apple.com/kr/app/id525818839",
           "genre": "Games",
           "score": 4.8,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 15,
@@ -681,7 +1677,7 @@
           "url": "https://apps.apple.com/kr/app/id6744170498",
           "genre": "Games",
           "score": 4.8,
-          "rank_change": -3
+          "rank_change": 0
         }
       ]
     },
@@ -762,7 +1758,7 @@
           "url": "https://apps.apple.com/us/app/id638689075",
           "genre": "Games",
           "score": 4.8,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 8,
@@ -773,7 +1769,7 @@
           "url": "https://apps.apple.com/us/app/id6751056652",
           "genre": "Games",
           "score": 4.6,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 9,
@@ -784,7 +1780,7 @@
           "url": "https://apps.apple.com/us/app/id6449144532",
           "genre": "Games",
           "score": 4.9,
-          "rank_change": null
+          "rank_change": 0
         },
         {
           "rank": 10,
@@ -795,7 +1791,7 @@
           "url": "https://apps.apple.com/us/app/id6739554056",
           "genre": "Games",
           "score": 4.6,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 11,
@@ -806,7 +1802,7 @@
           "url": "https://apps.apple.com/us/app/id1229016807",
           "genre": "Games",
           "score": 4.7,
-          "rank_change": 2
+          "rank_change": 0
         },
         {
           "rank": 12,
@@ -828,7 +1824,7 @@
           "url": "https://apps.apple.com/us/app/id1623318294",
           "genre": "Games",
           "score": 4.6,
-          "rank_change": -3
+          "rank_change": 0
         },
         {
           "rank": 14,
@@ -839,7 +1835,7 @@
           "url": "https://apps.apple.com/us/app/id6748397500",
           "genre": "Games",
           "score": 4.7,
-          "rank_change": -5
+          "rank_change": 0
         },
         {
           "rank": 15,
@@ -853,23 +1849,1517 @@
           "rank_change": 0
         }
       ],
-      "top-paid": []
+      "top-paid": [
+        {
+          "rank": 1,
+          "name": "Geometry Dash",
+          "developer": "RobTop Games AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d5/97/5ad5971d-b8ea-d82f-415f-f69be6bde65c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "625334537",
+          "url": "https://apps.apple.com/us/app/id625334537",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 2,
+          "name": "Minecraft: Dream it, Build it!",
+          "developer": "Mojang",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ee/ac/28eeaccb-af5b-ec8a-3091-a76991a65264/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+          "app_id": "479516143",
+          "url": "https://apps.apple.com/us/app/id479516143",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 3,
+          "name": "Slay the Spire",
+          "developer": "Humble Bundle",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/0c/92/910c920a-0ab6-1939-e297-083995b640c7/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1491530147",
+          "url": "https://apps.apple.com/us/app/id1491530147",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 4,
+          "name": "Heads Up!",
+          "developer": "Warner Bros.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/53/8d/d5538de7-426c-cd37-9921-f9319bec227d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "623592465",
+          "url": "https://apps.apple.com/us/app/id623592465",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 5,
+          "name": "Plague Inc.",
+          "developer": "Ndemic Creations",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/ea/9c/f2ea9c2a-3e9d-9548-5d40-bc4da75bb327/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.jpg",
+          "app_id": "525818839",
+          "url": "https://apps.apple.com/us/app/id525818839",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 6,
+          "name": "Bloons TD 6",
+          "developer": "Ninja Kiwi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/04/96/d0049697-4c34-48ae-47b9-d614731a279c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1118115766",
+          "url": "https://apps.apple.com/us/app/id1118115766",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 7,
+          "name": "Balatro",
+          "developer": "Playstack Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/d3/0c/6dd30caf-f830-22d5-ba44-448cdff0df30/iOS_AppIcon_Premium-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "app_id": "6502453075",
+          "url": "https://apps.apple.com/us/app/id6502453075",
+          "genre": "Games",
+          "score": 5.0,
+          "rank_change": null
+        },
+        {
+          "rank": 8,
+          "name": "Red's First Flight",
+          "developer": "Rovio Entertainment Oyj",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/b2/ca/16b2ca07-9218-4469-5e09-29addd3eff9e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "app_id": "1596736236",
+          "url": "https://apps.apple.com/us/app/id1596736236",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 9,
+          "name": "Stardew Valley",
+          "developer": "ConcernedApe",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/e0/e5/43e0e534-98da-6adf-b6f3-1df01c9c9f81/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1406710800",
+          "url": "https://apps.apple.com/us/app/id1406710800",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 10,
+          "name": "Papa's Freezeria To Go!",
+          "developer": "Flipline Studios",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/44/d1/bb/44d1bb03-8871-ff83-c212-5c55b0f335a6/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.jpg",
+          "app_id": "824305459",
+          "url": "https://apps.apple.com/us/app/id824305459",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 11,
+          "name": "Poppy Playtime Chapter 4",
+          "developer": "Mob Entertainment, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/96/da/1596da58-cb6b-d99b-cea4-91dceadc79fd/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "6746137187",
+          "url": "https://apps.apple.com/us/app/id6746137187",
+          "genre": "Games",
+          "score": 4.3,
+          "rank_change": null
+        },
+        {
+          "rank": 12,
+          "name": "CloverPit",
+          "developer": "Future Friends Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/cc/8c/32cc8c71-8aa4-8c6b-4b69-930887b8ede9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6754894237",
+          "url": "https://apps.apple.com/us/app/id6754894237",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 13,
+          "name": "Poppy Playtime Chapter 1",
+          "developer": "Mob Entertainment, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/e1/ab/40e1abb0-cfcb-1efb-2eac-f8b274028e8c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+          "app_id": "1610947489",
+          "url": "https://apps.apple.com/us/app/id1610947489",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 14,
+          "name": "MONOPOLY: The Board Game",
+          "developer": "Marmalade Game Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/7b/86/ad7b86bd-6a79-1b4e-0e7c-7c72f270e6a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1477966166",
+          "url": "https://apps.apple.com/us/app/id1477966166",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 15,
+          "name": "Terraria",
+          "developer": "505 Games (US), Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/b4/b5/e3b4b558-8736-9c0a-ac28-6bc57141c6bd/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "640364616",
+          "url": "https://apps.apple.com/us/app/id640364616",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        }
+      ]
     },
     "br": {
-      "top-free": [],
-      "top-paid": []
+      "top-free": [
+        {
+          "rank": 1,
+          "name": "Block Blast!",
+          "developer": "Hungry Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/1c/e6/681ce6fc-7a6b-e5e4-6911-f451ed9a3da0/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.jpg",
+          "app_id": "1617391485",
+          "url": "https://apps.apple.com/br/app/id1617391485",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 2,
+          "name": "Solitaire Associations Journey",
+          "developer": "Hitapps Games LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/38/a3/b338a319-32fe-4415-bd6c-9bdc07b564ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6748950306",
+          "url": "https://apps.apple.com/br/app/id6748950306",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 3,
+          "name": "Free Fire x JUJUTSU KAISEN",
+          "developer": "GARENA INTERNATIONAL I PRIVATE LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/8d/ba/4b8dba37-a240-f450-9f99-c3a611c96536/AppIcon-1767797054-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1300146617",
+          "url": "https://apps.apple.com/br/app/id1300146617",
+          "genre": "Games",
+          "score": 4.0,
+          "rank_change": null
+        },
+        {
+          "rank": 4,
+          "name": "Vita Mahjong",
+          "developer": "Vita Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/52/51/1852512d-0126-1cc0-972e-1bd1054e2065/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6468921495",
+          "url": "https://apps.apple.com/br/app/id6468921495",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 5,
+          "name": "Magic Sort!",
+          "developer": "Grand Games A.Ş.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/e0/25/71e0255e-c277-9928-83f5-58468d4b4213/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6499209744",
+          "url": "https://apps.apple.com/br/app/id6499209744",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 6,
+          "name": "Roblox",
+          "developer": "Roblox Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/83/3d/84833d8c-fd97-2751-6f09-4fff16c86a5a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+          "app_id": "431946152",
+          "url": "https://apps.apple.com/br/app/id431946152",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 7,
+          "name": "Subway Surfers",
+          "developer": "Sybo Games ApS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ac/4e/98ac4ed7-7da4-c5ae-8bea-c2adc70b7960/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "512939461",
+          "url": "https://apps.apple.com/br/app/id512939461",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 8,
+          "name": "8 Ball Pool™",
+          "developer": "Miniclip.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/48/66/9f48669b-06b9-011d-b320-d71e2ed49c3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "543186831",
+          "url": "https://apps.apple.com/br/app/id543186831",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 9,
+          "name": "Brawl Stars",
+          "developer": "Supercell",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/32/5c/70325cef-4285-1e25-d122-6623bc425e61/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "app_id": "1229016807",
+          "url": "https://apps.apple.com/br/app/id1229016807",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 10,
+          "name": "Clash Royale",
+          "developer": "Supercell",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/75/4b/d3754b94-8ea7-ead0-1428-9fa0c2a4e7ee/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "app_id": "1053012308",
+          "url": "https://apps.apple.com/br/app/id1053012308",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 11,
+          "name": "Travel Town - Combine Aventura",
+          "developer": "Moon Active",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/cf/d1/e5cfd13e-5b6b-5d18-ad45-199438afb1d7/NewAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1521236603",
+          "url": "https://apps.apple.com/br/app/id1521236603",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 12,
+          "name": "Call of Duty®: Mobile",
+          "developer": "Activision Publishing, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/f6/aa/73f6aa64-d3a4-4448-d36d-25b41582ec06/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1287282214",
+          "url": "https://apps.apple.com/br/app/id1287282214",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 13,
+          "name": "Jigsaw Block Sort",
+          "developer": "Tribom Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/a7/ad/fda7ad7a-00d0-3886-1069-ca3f2acf9f13/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6754925146",
+          "url": "https://apps.apple.com/br/app/id6754925146",
+          "genre": "Games",
+          "score": 5.0,
+          "rank_change": null
+        },
+        {
+          "rank": 14,
+          "name": "eFootball™",
+          "developer": "KONAMI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/c6/d4/7ec6d43d-8c11-6545-5413-d600bf741c96/PesMobile-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1117270703",
+          "url": "https://apps.apple.com/br/app/id1117270703",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 15,
+          "name": "Pizza Ready",
+          "developer": "Supercent, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/46/e1/bd46e151-1a2c-1fb5-cbb0-d6f5137a3560/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6450917563",
+          "url": "https://apps.apple.com/br/app/id6450917563",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        }
+      ],
+      "top-paid": [
+        {
+          "rank": 1,
+          "name": "Minecraft: Jogo de Construção",
+          "developer": "Mojang",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ee/ac/28eeaccb-af5b-ec8a-3091-a76991a65264/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+          "app_id": "479516143",
+          "url": "https://apps.apple.com/br/app/id479516143",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 2,
+          "name": "Complexo Favela",
+          "developer": "Bruno Santana",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/ef/1a/59ef1afc-0abe-f100-bdb9-11895f1e429f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6759327317",
+          "url": "https://apps.apple.com/br/app/id6759327317",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 3,
+          "name": "Plague Inc.",
+          "developer": "Ndemic Creations",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/ea/9c/f2ea9c2a-3e9d-9548-5d40-bc4da75bb327/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.jpg",
+          "app_id": "525818839",
+          "url": "https://apps.apple.com/br/app/id525818839",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 4,
+          "name": "Só tem você aqui",
+          "developer": "Danil Malinov",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/db/7b/a4db7b2e-7c5c-81b4-eac5-8b7e7b69442e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1094038347",
+          "url": "https://apps.apple.com/br/app/id1094038347",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 5,
+          "name": "Pou",
+          "developer": "Zakeh Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/2f/de/952fde20-6ec7-068b-fa9d-69c654410b1a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.jpg",
+          "app_id": "575154654",
+          "url": "https://apps.apple.com/br/app/id575154654",
+          "genre": "Games",
+          "score": 3.9,
+          "rank_change": null
+        },
+        {
+          "rank": 6,
+          "name": "Stardew Valley",
+          "developer": "ConcernedApe",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/e0/e5/43e0e534-98da-6adf-b6f3-1df01c9c9f81/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1406710800",
+          "url": "https://apps.apple.com/br/app/id1406710800",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 7,
+          "name": "Religion inc. Deus Simulador",
+          "developer": "GameFirst LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/85/2d/d6852d98-f9bd-c8f7-cf0e-b2c95610f497/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1484622401",
+          "url": "https://apps.apple.com/br/app/id1484622401",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 8,
+          "name": "Rovio Classics: Angry Birds",
+          "developer": "Rovio Entertainment Oyj",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/b2/ca/16b2ca07-9218-4469-5e09-29addd3eff9e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "app_id": "1596736236",
+          "url": "https://apps.apple.com/br/app/id1596736236",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 9,
+          "name": "Farming Simulator 20",
+          "developer": "GIANTS Software GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/03/3d/bd/033dbd6d-b521-8cac-567a-21d165c7fe05/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+          "app_id": "1478611992",
+          "url": "https://apps.apple.com/br/app/id1478611992",
+          "genre": "Games",
+          "score": 4.3,
+          "rank_change": null
+        },
+        {
+          "rank": 10,
+          "name": "Earn to Die 2",
+          "developer": "Not Doppler",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/cc/ab/feccab35-76b9-2ffa-7a6a-40ea9af24707/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "891194610",
+          "url": "https://apps.apple.com/br/app/id891194610",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 11,
+          "name": "RFS - Real Flight Simulator",
+          "developer": "RORTOS SRL",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/f5/c3c6f532-1cf8-f2c9-2dee-70b2200e4c1c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1444761746",
+          "url": "https://apps.apple.com/br/app/id1444761746",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 12,
+          "name": "Overwinter Survival",
+          "developer": "Fatih Beceren",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/9b/00/3d9b00a5-98d1-68e7-f265-79ab83d78549/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/100x100bb.jpg",
+          "app_id": "6469419567",
+          "url": "https://apps.apple.com/br/app/id6469419567",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 13,
+          "name": "Poppy Playtime Chapter 1",
+          "developer": "Mob Entertainment, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/e1/ab/40e1abb0-cfcb-1efb-2eac-f8b274028e8c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+          "app_id": "1610947489",
+          "url": "https://apps.apple.com/br/app/id1610947489",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 14,
+          "name": "Terraria",
+          "developer": "505 Games (US), Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/b4/b5/e3b4b558-8736-9c0a-ac28-6bc57141c6bd/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "640364616",
+          "url": "https://apps.apple.com/br/app/id640364616",
+          "genre": "Games",
+          "score": 4.3,
+          "rank_change": null
+        },
+        {
+          "rank": 15,
+          "name": "Poppy Playtime Chapter 4",
+          "developer": "Mob Entertainment, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/96/da/1596da58-cb6b-d99b-cea4-91dceadc79fd/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "6746137187",
+          "url": "https://apps.apple.com/br/app/id6746137187",
+          "genre": "Games",
+          "score": 3.9,
+          "rank_change": null
+        }
+      ]
     },
     "gb": {
-      "top-free": [],
-      "top-paid": []
+      "top-free": [
+        {
+          "rank": 1,
+          "name": "Disney Solitaire",
+          "developer": "SuperPlay",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/1b/2d/a21b2dfd-43f2-f576-f9b3-b517cec3ca70/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6475757306",
+          "url": "https://apps.apple.com/gb/app/id6475757306",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 2,
+          "name": "Solitaire Associations Journey",
+          "developer": "Hitapps Games LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/38/a3/b338a319-32fe-4415-bd6c-9bdc07b564ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6748950306",
+          "url": "https://apps.apple.com/gb/app/id6748950306",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 3,
+          "name": "Vita Mahjong",
+          "developer": "Vita Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/52/51/1852512d-0126-1cc0-972e-1bd1054e2065/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6468921495",
+          "url": "https://apps.apple.com/gb/app/id6468921495",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 4,
+          "name": "Block Blast!",
+          "developer": "Hungry Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/1c/e6/681ce6fc-7a6b-e5e4-6911-f451ed9a3da0/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.jpg",
+          "app_id": "1617391485",
+          "url": "https://apps.apple.com/gb/app/id1617391485",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 5,
+          "name": "Travel Town - Merge Adventure",
+          "developer": "Moon Active",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/cf/d1/e5cfd13e-5b6b-5d18-ad45-199438afb1d7/NewAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1521236603",
+          "url": "https://apps.apple.com/gb/app/id1521236603",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 6,
+          "name": "Magic Sort!",
+          "developer": "Grand Games A.Ş.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/e0/25/71e0255e-c277-9928-83f5-58468d4b4213/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6499209744",
+          "url": "https://apps.apple.com/gb/app/id6499209744",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 7,
+          "name": "X-Clash: Survival Strategies",
+          "developer": "9z Games(HK)",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/e1/ca/7fe1cac1-70ec-dd98-c0cf-a9b960392857/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6745206863",
+          "url": "https://apps.apple.com/gb/app/id6745206863",
+          "genre": "Games",
+          "score": 4.3,
+          "rank_change": null
+        },
+        {
+          "rank": 8,
+          "name": "Pixel Flow!",
+          "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/38/a2/3b38a2f7-1c20-4e02-5ad0-c3b938263a5d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6751056652",
+          "url": "https://apps.apple.com/gb/app/id6751056652",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 9,
+          "name": "Township",
+          "developer": "Playrix",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/71/72/b7717267-e128-d6c5-1d57-6d2fc62835bb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+          "app_id": "638689075",
+          "url": "https://apps.apple.com/gb/app/id638689075",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 10,
+          "name": "Domino Dreams™",
+          "developer": "SuperPlay",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/dc/52/d8dc52fa-5297-d4cd-deeb-a59277e20b80/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6444043291",
+          "url": "https://apps.apple.com/gb/app/id6444043291",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 11,
+          "name": "Yarn Loop: Knit Puzzle",
+          "developer": "Combo Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/10/fd/f910fd81-48da-bd6e-3e2b-0e6ecf31fab5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6755183085",
+          "url": "https://apps.apple.com/gb/app/id6755183085",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 12,
+          "name": "Roblox",
+          "developer": "Roblox Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/83/3d/84833d8c-fd97-2751-6f09-4fff16c86a5a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+          "app_id": "431946152",
+          "url": "https://apps.apple.com/gb/app/id431946152",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 13,
+          "name": "MONOPOLY GO!",
+          "developer": "Scopely, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/96/ac/9796ac77-0d66-e1a3-cf56-dba7611e1718/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1621328561",
+          "url": "https://apps.apple.com/gb/app/id1621328561",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 14,
+          "name": "8 Ball Pool™",
+          "developer": "Miniclip.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/48/66/9f48669b-06b9-011d-b320-d71e2ed49c3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "543186831",
+          "url": "https://apps.apple.com/gb/app/id543186831",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 15,
+          "name": "Whiteout Survival",
+          "developer": "Century Games Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/89/b5/c789b534-e70c-212f-c21a-ed1b758177bf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6443575749",
+          "url": "https://apps.apple.com/gb/app/id6443575749",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        }
+      ],
+      "top-paid": [
+        {
+          "rank": 1,
+          "name": "Geometry Dash",
+          "developer": "RobTop Games AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d5/97/5ad5971d-b8ea-d82f-415f-f69be6bde65c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "625334537",
+          "url": "https://apps.apple.com/gb/app/id625334537",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 2,
+          "name": "Minecraft: Dream it, Build it!",
+          "developer": "Mojang",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ee/ac/28eeaccb-af5b-ec8a-3091-a76991a65264/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+          "app_id": "479516143",
+          "url": "https://apps.apple.com/gb/app/id479516143",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 3,
+          "name": "Pou",
+          "developer": "Zakeh Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/2f/de/952fde20-6ec7-068b-fa9d-69c654410b1a/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.jpg",
+          "app_id": "575154654",
+          "url": "https://apps.apple.com/gb/app/id575154654",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 4,
+          "name": "Plague Inc.",
+          "developer": "Ndemic Creations",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/ea/9c/f2ea9c2a-3e9d-9548-5d40-bc4da75bb327/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.jpg",
+          "app_id": "525818839",
+          "url": "https://apps.apple.com/gb/app/id525818839",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 5,
+          "name": "Red's First Flight",
+          "developer": "Rovio Entertainment Oyj",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/16/b2/ca/16b2ca07-9218-4469-5e09-29addd3eff9e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "app_id": "1596736236",
+          "url": "https://apps.apple.com/gb/app/id1596736236",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 6,
+          "name": "Slay the Spire",
+          "developer": "Humble Bundle",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/0c/92/910c920a-0ab6-1939-e297-083995b640c7/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1491530147",
+          "url": "https://apps.apple.com/gb/app/id1491530147",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 7,
+          "name": "MONOPOLY",
+          "developer": "Marmalade Game Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/7b/86/ad7b86bd-6a79-1b4e-0e7c-7c72f270e6a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1477966166",
+          "url": "https://apps.apple.com/gb/app/id1477966166",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 8,
+          "name": "Stardew Valley",
+          "developer": "ConcernedApe",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/e0/e5/43e0e534-98da-6adf-b6f3-1df01c9c9f81/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1406710800",
+          "url": "https://apps.apple.com/gb/app/id1406710800",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 9,
+          "name": "Heads Up!",
+          "developer": "Warner Bros.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/53/8d/d5538de7-426c-cd37-9921-f9319bec227d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "623592465",
+          "url": "https://apps.apple.com/gb/app/id623592465",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 10,
+          "name": "Bloons TD 6",
+          "developer": "Ninja Kiwi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/04/96/d0049697-4c34-48ae-47b9-d614731a279c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1118115766",
+          "url": "https://apps.apple.com/gb/app/id1118115766",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 11,
+          "name": "Balatro",
+          "developer": "Playstack Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/d3/0c/6dd30caf-f830-22d5-ba44-448cdff0df30/iOS_AppIcon_Premium-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "app_id": "6502453075",
+          "url": "https://apps.apple.com/gb/app/id6502453075",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 12,
+          "name": "Incredibox",
+          "developer": "So Far So Good",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/2b/6c/d02b6c61-94fe-4863-56ae-a2a522061147/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "app_id": "1093131935",
+          "url": "https://apps.apple.com/gb/app/id1093131935",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 13,
+          "name": "Countdown - The Official TV Show App",
+          "developer": "Barnstorm Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/2e/aa/f8/2eaaf864-a479-8a6f-d560-1c66dfa47f6c/mzl.cnqtxvfb.png/100x100bb.jpg",
+          "app_id": "1040137269",
+          "url": "https://apps.apple.com/gb/app/id1040137269",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 14,
+          "name": "Earn to Die 2",
+          "developer": "Not Doppler",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/cc/ab/feccab35-76b9-2ffa-7a6a-40ea9af24707/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "891194610",
+          "url": "https://apps.apple.com/gb/app/id891194610",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 15,
+          "name": "Poppy Playtime Chapter 1",
+          "developer": "Mob Entertainment, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/e1/ab/40e1abb0-cfcb-1efb-2eac-f8b274028e8c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+          "app_id": "1610947489",
+          "url": "https://apps.apple.com/gb/app/id1610947489",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        }
+      ]
     },
     "hk": {
-      "top-free": [],
-      "top-paid": []
+      "top-free": [
+        {
+          "rank": 1,
+          "name": "Pikmin Bloom",
+          "developer": "Niantic, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/2a/83/cf2a8358-2a52-03b4-1278-523154d60ba7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1556357398",
+          "url": "https://apps.apple.com/hk/app/id1556357398",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 2,
+          "name": "VAMPIR：血之繼承者",
+          "developer": "Netmarble Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/c6/aa/bec6aa83-d7ba-d461-53f9-13abb6a5b1ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6738163891",
+          "url": "https://apps.apple.com/hk/app/id6738163891",
+          "genre": "Games",
+          "score": 2.7,
+          "rank_change": null
+        },
+        {
+          "rank": 3,
+          "name": "不正經魔王軍",
+          "developer": "Fun Journey Network Technology Co., Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/2a/a6/5e2aa65f-b765-a59b-6c7d-d910b907d265/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+          "app_id": "6758982655",
+          "url": "https://apps.apple.com/hk/app/id6758982655",
+          "genre": "Games",
+          "score": 5,
+          "rank_change": null
+        },
+        {
+          "rank": 4,
+          "name": "食光旅行",
+          "developer": "Century Games Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/28/c7/5d28c71e-7fc5-e15f-7845-8fa51a8e8985/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6471045672",
+          "url": "https://apps.apple.com/hk/app/id6471045672",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 5,
+          "name": "咻咻史萊姆 - 跟著咖波輕鬆放置",
+          "developer": "X-LEGEND ENTERTAINMENT CO., LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/af/f4/32aff4a0-c15e-e6c7-afc0-52f12de1a66c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6756606270",
+          "url": "https://apps.apple.com/hk/app/id6756606270",
+          "genre": "Games",
+          "score": 4,
+          "rank_change": null
+        },
+        {
+          "rank": 6,
+          "name": "《虹彩六號 M》",
+          "developer": "Ubisoft Nova",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/a3/09/85a309cd-1d5b-0751-bf92-865af862f38b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1608916511",
+          "url": "https://apps.apple.com/hk/app/id1608916511",
+          "genre": "Games",
+          "score": 4.1,
+          "rank_change": null
+        },
+        {
+          "rank": 7,
+          "name": "Block Blast!",
+          "developer": "Hungry Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/1c/e6/681ce6fc-7a6b-e5e4-6911-f451ed9a3da0/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.jpg",
+          "app_id": "1617391485",
+          "url": "https://apps.apple.com/hk/app/id1617391485",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 8,
+          "name": "Travel Town - Merge Adventure",
+          "developer": "Moon Active",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/cf/d1/e5cfd13e-5b6b-5d18-ad45-199438afb1d7/NewAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1521236603",
+          "url": "https://apps.apple.com/hk/app/id1521236603",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 9,
+          "name": "王者榮耀國際服（Honor of Kings）",
+          "developer": "Level Infinite",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/b8/3e/a4b83e06-18af-9786-cdb5-f16ad0fbb340/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1619254071",
+          "url": "https://apps.apple.com/hk/app/id1619254071",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 10,
+          "name": "紙牌接龍 – 單字遊戲",
+          "developer": "Hitapps Games LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/38/a3/b338a319-32fe-4415-bd6c-9bdc07b564ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6748950306",
+          "url": "https://apps.apple.com/hk/app/id6748950306",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 11,
+          "name": "Kingshot",
+          "developer": "Century Games Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/18/8a/f6188a14-83a7-d226-6f1d-29a58fd2fc09/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6739554056",
+          "url": "https://apps.apple.com/hk/app/id6739554056",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 12,
+          "name": "心動小鎮",
+          "developer": "XD Entertainment Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/cd/b2/dccdb254-82c8-8a85-b469-0ca1e7c5f652/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "6746151928",
+          "url": "https://apps.apple.com/hk/app/id6746151928",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 13,
+          "name": "Domino Dreams™",
+          "developer": "SuperPlay",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/dc/52/d8dc52fa-5297-d4cd-deeb-a59277e20b80/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6444043291",
+          "url": "https://apps.apple.com/hk/app/id6444043291",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 14,
+          "name": "不用網路的遊戲 - 無網路遊戲 - 離線 遊戲 - 無網遊戲",
+          "developer": "Moreno Maio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/07/7b/aa077b53-f000-4d52-8fc7-d60932765bac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6448104157",
+          "url": "https://apps.apple.com/hk/app/id6448104157",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 15,
+          "name": "生化危機 生存兵種",
+          "developer": "Aniplex Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/62/5f/e3625f37-a57d-1582-2b7a-2e8fb9c0be82/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6744668327",
+          "url": "https://apps.apple.com/hk/app/id6744668327",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        }
+      ],
+      "top-paid": [
+        {
+          "rank": 1,
+          "name": "Minecraft",
+          "developer": "Mojang",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ee/ac/28eeaccb-af5b-ec8a-3091-a76991a65264/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+          "app_id": "479516143",
+          "url": "https://apps.apple.com/hk/app/id479516143",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 2,
+          "name": "Religion inc.上帝模擬器",
+          "developer": "GameFirst LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/85/2d/d6852d98-f9bd-c8f7-cf0e-b2c95610f497/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1484622401",
+          "url": "https://apps.apple.com/hk/app/id1484622401",
+          "genre": "Games",
+          "score": 4.0,
+          "rank_change": null
+        },
+        {
+          "rank": 3,
+          "name": "Plague Inc. (瘟疫公司)",
+          "developer": "Ndemic Creations",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/ea/9c/f2ea9c2a-3e9d-9548-5d40-bc4da75bb327/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.jpg",
+          "app_id": "525818839",
+          "url": "https://apps.apple.com/hk/app/id525818839",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 4,
+          "name": "Balatro",
+          "developer": "Playstack Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/d3/0c/6dd30caf-f830-22d5-ba44-448cdff0df30/iOS_AppIcon_Premium-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "app_id": "6502453075",
+          "url": "https://apps.apple.com/hk/app/id6502453075",
+          "genre": "Games",
+          "score": 5.0,
+          "rank_change": null
+        },
+        {
+          "rank": 5,
+          "name": "Stardew Valley",
+          "developer": "ConcernedApe",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/e0/e5/43e0e534-98da-6adf-b6f3-1df01c9c9f81/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1406710800",
+          "url": "https://apps.apple.com/hk/app/id1406710800",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 6,
+          "name": "飛空艇探險物語",
+          "developer": "Kairosoft Co.,Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/18/ed/5d18ed89-358f-e4d4-d509-bea895351030/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6752695239",
+          "url": "https://apps.apple.com/hk/app/id6752695239",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 7,
+          "name": "Geometry Dash",
+          "developer": "RobTop Games AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d5/97/5ad5971d-b8ea-d82f-415f-f69be6bde65c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "625334537",
+          "url": "https://apps.apple.com/hk/app/id625334537",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 8,
+          "name": "槍與香蕉 - Pirates Outlaws",
+          "developer": "Fabled Game Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/a4/af/49a4af5f-ed4e-c10c-4b7e-6a6d5f388b04/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "app_id": "1442776789",
+          "url": "https://apps.apple.com/hk/app/id1442776789",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 9,
+          "name": "金武江湖 - 單機金庸群俠傳復刻",
+          "developer": "Suzhou Sweet potato network technology Co.,Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/48/f1/da48f1de-dd9a-33da-e003-910a03f05d73/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+          "app_id": "6502623166",
+          "url": "https://apps.apple.com/hk/app/id6502623166",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 10,
+          "name": "魔王城物語",
+          "developer": "Kairosoft Co.,Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/38/54/b9385412-f5c5-0bc0-d322-a9f4b49e850e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6749560544",
+          "url": "https://apps.apple.com/hk/app/id6749560544",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 11,
+          "name": "RFS - Real Flight Simulator",
+          "developer": "RORTOS SRL",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/f5/c3c6f532-1cf8-f2c9-2dee-70b2200e4c1c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1444761746",
+          "url": "https://apps.apple.com/hk/app/id1444761746",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 12,
+          "name": "Unboxing the Cryptic Killer",
+          "developer": "Eleven Products Sp. z o.o.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/49/23/ad492327-aaf9-5c91-b332-1a0acfdcd27c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6448352407",
+          "url": "https://apps.apple.com/hk/app/id6448352407",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 13,
+          "name": "EvoCreo2: Monster Trainer Game",
+          "developer": "Ilmfinity Studios LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/08/98/570898fc-453f-4106-a72a-19acd5d3e409/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1499001662",
+          "url": "https://apps.apple.com/hk/app/id1499001662",
+          "genre": "Games",
+          "score": 3.7,
+          "rank_change": null
+        },
+        {
+          "rank": 14,
+          "name": "Monoposto",
+          "developer": "Marco Pesce",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/68/b1/7468b13e-4f7d-7128-fbe8-e84a80b7a23a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1262474519",
+          "url": "https://apps.apple.com/hk/app/id1262474519",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 15,
+          "name": "戰車撞殭屍2 (Earn to Die 2)",
+          "developer": "Not Doppler",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/cc/ab/feccab35-76b9-2ffa-7a6a-40ea9af24707/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "891194610",
+          "url": "https://apps.apple.com/hk/app/id891194610",
+          "genre": "Games",
+          "score": 4.3,
+          "rank_change": null
+        }
+      ]
     },
     "in": {
-      "top-free": [],
-      "top-paid": []
+      "top-free": [
+        {
+          "rank": 1,
+          "name": "Ludo King",
+          "developer": "GAMETION GLOBAL TECHNOLOGIES PTE LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/51/13/91511337-785f-97aa-f7a7-c200d8923f9f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "993090598",
+          "url": "https://apps.apple.com/in/app/id993090598",
+          "genre": "Games",
+          "score": 3.6,
+          "rank_change": null
+        },
+        {
+          "rank": 2,
+          "name": "Vita Mahjong",
+          "developer": "Vita Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/52/51/1852512d-0126-1cc0-972e-1bd1054e2065/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6468921495",
+          "url": "https://apps.apple.com/in/app/id6468921495",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 3,
+          "name": "BATTLEGROUNDS MOBILE INDIA",
+          "developer": "KRAFTON Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/9a/fc/d59afc7a-202d-1c33-9482-74a4bfcc2641/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1526436837",
+          "url": "https://apps.apple.com/in/app/id1526436837",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 4,
+          "name": "Mini Militia Classic",
+          "developer": "Chad Towns",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/d8/19/11d819a5-9d35-5d36-a274-e4d0cc307742/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1543976495",
+          "url": "https://apps.apple.com/in/app/id1543976495",
+          "genre": "Games",
+          "score": 4.0,
+          "rank_change": null
+        },
+        {
+          "rank": 5,
+          "name": "Art Block Puzzle: Snap & Merge",
+          "developer": "Moonstep Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/1a/15/541a1521-a399-93a3-5ce0-8e1f86b382eb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6751546633",
+          "url": "https://apps.apple.com/in/app/id6751546633",
+          "genre": "Games",
+          "score": 4.1,
+          "rank_change": null
+        },
+        {
+          "rank": 6,
+          "name": "Candy Crush Saga",
+          "developer": "King",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/8c/80/3d8c80f1-43b4-b7d7-c365-c60742adbedf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "553834731",
+          "url": "https://apps.apple.com/in/app/id553834731",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 7,
+          "name": "Subway Surfers",
+          "developer": "Sybo Games ApS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/ac/4e/98ac4ed7-7da4-c5ae-8bea-c2adc70b7960/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "512939461",
+          "url": "https://apps.apple.com/in/app/id512939461",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 8,
+          "name": "Truck Masters: India Simulator",
+          "developer": "Highbrow Interactive",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/3a/f1/a13af19d-050b-bec8-a634-4eae063799ff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6475969303",
+          "url": "https://apps.apple.com/in/app/id6475969303",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 9,
+          "name": "Cricket League",
+          "developer": "Miniclip.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/14/74/d41474d3-b832-11b5-5553-aa7f81d7232f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1580603339",
+          "url": "https://apps.apple.com/in/app/id1580603339",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 10,
+          "name": "Dr. Driving",
+          "developer": "SUD Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8e/77/67/8e77679a-3d09-bcef-3463-52ce1e462772/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+          "app_id": "639191551",
+          "url": "https://apps.apple.com/in/app/id639191551",
+          "genre": "Games",
+          "score": 4.1,
+          "rank_change": null
+        },
+        {
+          "rank": 11,
+          "name": "Hunter Assassin",
+          "developer": "RUBY OYUN VE YAZILIM DANISMANLIK SANAYI TICARET ANONIM SIRKETI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/36/3a/8d363a92-22c1-9bcd-18fc-90a06a554426/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+          "app_id": "1479587574",
+          "url": "https://apps.apple.com/in/app/id1479587574",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 12,
+          "name": "Block Blast!",
+          "developer": "Hungry Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/1c/e6/681ce6fc-7a6b-e5e4-6911-f451ed9a3da0/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.jpg",
+          "app_id": "1617391485",
+          "url": "https://apps.apple.com/in/app/id1617391485",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 13,
+          "name": "Real Cricket™",
+          "developer": "KRAFTON Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/f2/3e/88f23e8c-338e-73c1-3bd0-b1a241bae368/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1577721431",
+          "url": "https://apps.apple.com/in/app/id1577721431",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 14,
+          "name": "Mini Militia - Doodle Army 2",
+          "developer": "Miniclip.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/1a/79/051a792c-fb53-473b-d6be-8073b3285988/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg",
+          "app_id": "405885221",
+          "url": "https://apps.apple.com/in/app/id405885221",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 15,
+          "name": "Carrom Pool: Disc Game",
+          "developer": "Miniclip.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/4e/e9/294ee916-15bc-369c-a252-b98e08949b79/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+          "app_id": "1420551478",
+          "url": "https://apps.apple.com/in/app/id1420551478",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        }
+      ],
+      "top-paid": [
+        {
+          "rank": 1,
+          "name": "Minecraft: Dream it, Build it!",
+          "developer": "Mojang",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/ee/ac/28eeaccb-af5b-ec8a-3091-a76991a65264/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+          "app_id": "479516143",
+          "url": "https://apps.apple.com/in/app/id479516143",
+          "genre": "Games",
+          "score": 4.5,
+          "rank_change": null
+        },
+        {
+          "rank": 2,
+          "name": "Overwinter Survival",
+          "developer": "Fatih Beceren",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/9b/00/3d9b00a5-98d1-68e7-f265-79ab83d78549/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/100x100bb.jpg",
+          "app_id": "6469419567",
+          "url": "https://apps.apple.com/in/app/id6469419567",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 3,
+          "name": "Earn to Die 2",
+          "developer": "Not Doppler",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/cc/ab/feccab35-76b9-2ffa-7a6a-40ea9af24707/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "891194610",
+          "url": "https://apps.apple.com/in/app/id891194610",
+          "genre": "Games",
+          "score": 4.3,
+          "rank_change": null
+        },
+        {
+          "rank": 4,
+          "name": "Brink: Psychological Warfare",
+          "developer": "Om Phatak",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/34/20/7b3420c5-5cf0-1a78-cf3f-308d7cc64417/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+          "app_id": "6753995293",
+          "url": "https://apps.apple.com/in/app/id6753995293",
+          "genre": "Games",
+          "score": 5,
+          "rank_change": null
+        },
+        {
+          "rank": 5,
+          "name": "Super Farming Boy",
+          "developer": "Renxo Europe Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/92/e0/1092e035-9c0c-2476-c44e-21072e863628/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "6447262835",
+          "url": "https://apps.apple.com/in/app/id6447262835",
+          "genre": "Games",
+          "score": 4.8,
+          "rank_change": null
+        },
+        {
+          "rank": 6,
+          "name": "Mika's Treasure 2 Collection",
+          "developer": "Rinzz Co. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/a1/35/31a135aa-6ec5-9750-3960-a02818ac6b99/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+          "app_id": "1558776231",
+          "url": "https://apps.apple.com/in/app/id1558776231",
+          "genre": "Games",
+          "score": 2.6,
+          "rank_change": null
+        },
+        {
+          "rank": 7,
+          "name": "Dungeon Survivor",
+          "developer": "XIAMEN TAOJIN INTERACTIVE NETWORK CO.,LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/17/05/0b1705c5-a35a-0498-ca21-45f541e6573d/AppIcon-2-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "app_id": "901738789",
+          "url": "https://apps.apple.com/in/app/id901738789",
+          "genre": "Games",
+          "score": 3.7,
+          "rank_change": null
+        },
+        {
+          "rank": 8,
+          "name": "RFS - Real Flight Simulator",
+          "developer": "RORTOS SRL",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/c6/f5/c3c6f532-1cf8-f2c9-2dee-70b2200e4c1c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+          "app_id": "1444761746",
+          "url": "https://apps.apple.com/in/app/id1444761746",
+          "genre": "Games",
+          "score": 4.4,
+          "rank_change": null
+        },
+        {
+          "rank": 9,
+          "name": "Dynamite Fishing World Games",
+          "developer": "HandyGames",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/9e/e6/6b/9ee66bf7-6227-68bb-53f7-8205ec75ac15/mzl.ettixjtc.png/100x100bb.jpg",
+          "app_id": "967219249",
+          "url": "https://apps.apple.com/in/app/id967219249",
+          "genre": "Games",
+          "score": 3.5,
+          "rank_change": null
+        },
+        {
+          "rank": 10,
+          "name": "Only You Are Here",
+          "developer": "Danil Malinov",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/db/7b/a4db7b2e-7c5c-81b4-eac5-8b7e7b69442e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "1094038347",
+          "url": "https://apps.apple.com/in/app/id1094038347",
+          "genre": "Games",
+          "score": 4.9,
+          "rank_change": null
+        },
+        {
+          "rank": 11,
+          "name": "Guns'n'Glory Premium",
+          "developer": "HandyGames",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/67/08/20/670820cc-225a-e437-c5ea-110696e9a342/mzl.ttjlkzro.png/100x100bb.jpg",
+          "app_id": "385902072",
+          "url": "https://apps.apple.com/in/app/id385902072",
+          "genre": "Games",
+          "score": 4.6,
+          "rank_change": null
+        },
+        {
+          "rank": 12,
+          "name": "Grand Theft Auto: Vice City",
+          "developer": "Rockstar Games",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/57/01/fd/5701fd72-a6a2-35db-0710-30a0fb014cc6/AppIcon-0-1x_U007emarketing-85-220-4.png/100x100bb.jpg",
+          "app_id": "578448682",
+          "url": "https://apps.apple.com/in/app/id578448682",
+          "genre": "Games",
+          "score": 4.3,
+          "rank_change": null
+        },
+        {
+          "rank": 13,
+          "name": "Farming Simulator 20",
+          "developer": "GIANTS Software GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/03/3d/bd/033dbd6d-b521-8cac-567a-21d165c7fe05/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+          "app_id": "1478611992",
+          "url": "https://apps.apple.com/in/app/id1478611992",
+          "genre": "Games",
+          "score": 4.2,
+          "rank_change": null
+        },
+        {
+          "rank": 14,
+          "name": "Hitman Sniper",
+          "developer": "Deca Live Operations GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/9c/b6/4c9cb644-223d-9662-5e45-da46c86cdc62/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "app_id": "904278510",
+          "url": "https://apps.apple.com/in/app/id904278510",
+          "genre": "Games",
+          "score": 4.7,
+          "rank_change": null
+        },
+        {
+          "rank": 15,
+          "name": "SpongeBob - The Cosmic Shake",
+          "developer": "HandyGames",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/70/4b/08704bcc-5c6f-7ec2-e338-d3406801eb92/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "app_id": "6445992619",
+          "url": "https://apps.apple.com/in/app/id6445992619",
+          "genre": "Games",
+          "score": 4.3,
+          "rank_change": null
+        }
+      ]
     }
   },
   "gplay": {
@@ -1016,7 +3506,7 @@
           "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=sg",
           "genre": "Simulation",
           "score": 4.3,
-          "rank_change": null
+          "rank_change": 0
         },
         {
           "rank": 14,
@@ -1027,7 +3517,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.red.arrows.android&hl=en&gl=sg",
           "genre": "Casual",
           "score": 4.7,
-          "rank_change": null
+          "rank_change": 0
         },
         {
           "rank": 15,
@@ -1038,7 +3528,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.fashionlink.northstone&hl=en&gl=sg",
           "genre": "Casual",
           "score": 4.8,
-          "rank_change": -2
+          "rank_change": 0
         }
       ],
       "topselling_grossing": [
@@ -1308,7 +3798,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=my",
           "genre": "Puzzle",
           "score": 4.8,
-          "rank_change": 3
+          "rank_change": 0
         },
         {
           "rank": 10,
@@ -1319,7 +3809,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.brain.logic.joygame&hl=en&gl=my",
           "genre": "Puzzle",
           "score": 4.6,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 11,
@@ -1330,7 +3820,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.studio27.MelonPlayground&hl=en&gl=my",
           "genre": "Simulation",
           "score": 4.5,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 12,
@@ -1341,7 +3831,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer&hl=en&gl=my",
           "genre": "Adventure",
           "score": 4.4,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 13,
@@ -1352,7 +3842,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=en&gl=my",
           "genre": "Adventure",
           "score": 4.5,
-          "rank_change": null
+          "rank_change": 0
         },
         {
           "rank": 14,
@@ -1363,7 +3853,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.higame.par.bubble.tea&hl=en&gl=my",
           "genre": "Casual",
           "score": 4.1,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 15,
@@ -1374,7 +3864,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.yg.mini.games&hl=en&gl=my",
           "genre": "Casual",
           "score": 4.3,
-          "rank_change": -1
+          "rank_change": 0
         }
       ],
       "topselling_grossing": [
@@ -1578,7 +4068,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.softstar.tks2&hl=zh&gl=tw",
           "genre": "角色扮演",
           "score": 4.3,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 4,
@@ -1589,7 +4079,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.yzlm.tw.and&hl=zh&gl=tw",
           "genre": "角色扮演",
           "score": 4.8,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 5,
@@ -1655,7 +4145,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.loadcomplete.minitales&hl=zh&gl=tw",
           "genre": "休闲",
           "score": 4.7,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 11,
@@ -1666,7 +4156,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor&hl=zh&gl=tw",
           "genre": "益智",
           "score": 4.6,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 12,
@@ -1980,7 +4470,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=ja&gl=jp",
           "genre": "アクション",
           "score": 4.1,
-          "rank_change": 3
+          "rank_change": 0
         },
         {
           "rank": 10,
@@ -1991,7 +4481,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.linecorp.LGSPS20&hl=ja&gl=jp",
           "genre": "シミュレーション",
           "score": 3.8,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 11,
@@ -2002,7 +4492,7 @@
           "url": "https://play.google.com/store/apps/details?id=sorting.games.goods.sort.triple.match3d.puzzle.stuff&hl=ja&gl=jp",
           "genre": "パズル",
           "score": 4.8,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 12,
@@ -2013,7 +4503,7 @@
           "url": "https://play.google.com/store/apps/details?id=water.jam.sort.bottle.match.game&hl=ja&gl=jp",
           "genre": "パズル",
           "score": 4.7,
-          "rank_change": null
+          "rank_change": 0
         },
         {
           "rank": 13,
@@ -2024,7 +4514,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=ja&gl=jp",
           "genre": "パズル",
           "score": 4.1,
-          "rank_change": -2
+          "rank_change": 0
         },
         {
           "rank": 14,
@@ -2035,7 +4525,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ja&gl=jp",
           "genre": "アドベンチャー",
           "score": 4.2,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 15,
@@ -2046,7 +4536,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.hxh.survivor&hl=ja&gl=jp",
           "genre": "アクション",
           "score": 4.2,
-          "rank_change": -1
+          "rank_change": 0
         }
       ],
       "topselling_grossing": [
@@ -2371,7 +4861,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=ko&gl=kr",
           "genre": "퍼즐",
           "score": 4.9,
-          "rank_change": null
+          "rank_change": 0
         },
         {
           "rank": 15,
@@ -2382,7 +4872,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=ko&gl=kr",
           "genre": "퍼즐",
           "score": 4.6,
-          "rank_change": -1
+          "rank_change": 0
         }
       ],
       "topselling_grossing": [
@@ -2652,7 +5142,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=us",
           "genre": "Puzzle",
           "score": 4.9,
-          "rank_change": 4
+          "rank_change": 0
         },
         {
           "rank": 10,
@@ -2663,7 +5153,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.arrow.out&hl=en&gl=us",
           "genre": "Puzzle",
           "score": 4.6,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 11,
@@ -2674,7 +5164,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=en&gl=us",
           "genre": "Action",
           "score": 4.8,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 12,
@@ -2685,7 +5175,7 @@
           "url": "https://play.google.com/store/apps/details?id=kidultlovin.word.zen&hl=en&gl=us",
           "genre": "Word",
           "score": 4.9,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 13,
@@ -2696,7 +5186,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.phs.global&hl=en&gl=us",
           "genre": "Strategy",
           "score": 4.6,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 14,
@@ -2718,7 +5208,7 @@
           "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.hexaaway&hl=en&gl=us",
           "genre": "Puzzle",
           "score": 4.4,
-          "rank_change": null
+          "rank_change": 0
         }
       ],
       "topselling_grossing": [
@@ -2977,7 +5467,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=pt&gl=br",
           "genre": "Arcade",
           "score": 4.6,
-          "rank_change": 2
+          "rank_change": 0
         },
         {
           "rank": 9,
@@ -2988,7 +5478,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.xman.na.gp&hl=pt&gl=br",
           "genre": "Casuais",
           "score": 3.8,
-          "rank_change": 2
+          "rank_change": 0
         },
         {
           "rank": 10,
@@ -2999,7 +5489,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.roleplay.riorise&hl=pt&gl=br",
           "genre": "RPG",
           "score": 3.7,
-          "rank_change": -2
+          "rank_change": 0
         },
         {
           "rank": 11,
@@ -3010,7 +5500,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.puzzlegames.puzzlebrickslegend&hl=pt&gl=br",
           "genre": "Quebra-cabeças",
           "score": 4.4,
-          "rank_change": -2
+          "rank_change": 0
         },
         {
           "rank": 12,
@@ -3021,7 +5511,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.candyroom.clubcraft&hl=pt&gl=br",
           "genre": "Aventura",
           "score": 4.6,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 13,
@@ -3032,7 +5522,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.brazino.brasil&hl=pt&gl=br",
           "genre": "Cassino",
           "score": 3.8,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 14,
@@ -3043,7 +5533,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.pazugames.avatarworld&hl=pt&gl=br",
           "genre": "RPG",
           "score": 4.7,
-          "rank_change": null
+          "rank_change": 0
         },
         {
           "rank": 15,
@@ -3054,7 +5544,7 @@
           "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=pt&gl=br",
           "genre": "Simulador",
           "score": 4.4,
-          "rank_change": null
+          "rank_change": 0
         }
       ],
       "topselling_grossing": [
@@ -3335,7 +5825,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=gb",
           "genre": "Puzzle",
           "score": 4.9,
-          "rank_change": 5
+          "rank_change": 0
         },
         {
           "rank": 11,
@@ -3346,7 +5836,7 @@
           "url": "https://play.google.com/store/apps/details?id=jp.co.goodroid.hyper.hexaaway&hl=en&gl=gb",
           "genre": "Puzzle",
           "score": 4.4,
-          "rank_change": null
+          "rank_change": 0
         },
         {
           "rank": 12,
@@ -3357,7 +5847,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=en&gl=gb",
           "genre": "Puzzle",
           "score": 4.5,
-          "rank_change": -2
+          "rank_change": 0
         },
         {
           "rank": 13,
@@ -3368,7 +5858,7 @@
           "url": "https://play.google.com/store/apps/details?id=game.bubble.physics.world&hl=en&gl=gb",
           "genre": "Casual",
           "score": 5.0,
-          "rank_change": -2
+          "rank_change": 0
         },
         {
           "rank": 14,
@@ -3379,7 +5869,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.playrix.township&hl=en&gl=gb",
           "genre": "Casual",
           "score": 4.6,
-          "rank_change": -2
+          "rank_change": 0
         },
         {
           "rank": 15,
@@ -3390,7 +5880,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.ecffri.arrows&hl=en&gl=gb",
           "genre": "Puzzle",
           "score": 4.6,
-          "rank_change": -2
+          "rank_change": 0
         }
       ],
       "topselling_grossing": [
@@ -3941,7 +6431,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.miniclip.carrom&hl=en&gl=in",
           "genre": "Sports",
           "score": 4.6,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 5,
@@ -3952,7 +6442,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.Rohit.IndianBikes&hl=en&gl=in",
           "genre": "Simulation",
           "score": 4.2,
-          "rank_change": -1
+          "rank_change": 0
         },
         {
           "rank": 6,
@@ -3963,7 +6453,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=in",
           "genre": "Arcade",
           "score": 4.4,
-          "rank_change": 3
+          "rank_change": 0
         },
         {
           "rank": 7,
@@ -3974,7 +6464,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.rioo.runnersubway&hl=en&gl=in",
           "genre": "Arcade",
           "score": 4.1,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 8,
@@ -3985,7 +6475,7 @@
           "url": "https://play.google.com/store/apps/details?id=io.supercent.pizzaidle&hl=en&gl=in",
           "genre": "Simulation",
           "score": 4.1,
-          "rank_change": -2
+          "rank_change": 0
         },
         {
           "rank": 9,
@@ -3996,7 +6486,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.imangi.templerun2&hl=en&gl=in",
           "genre": "Action",
           "score": 4.1,
-          "rank_change": -2
+          "rank_change": 0
         },
         {
           "rank": 10,
@@ -4018,7 +6508,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.rubygames.assassin&hl=en&gl=in",
           "genre": "Action",
           "score": 4.0,
-          "rank_change": 3
+          "rank_change": 0
         },
         {
           "rank": 12,
@@ -4029,7 +6519,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.coal.collectormine&hl=en&gl=in",
           "genre": "Adventure",
           "score": 4.5,
-          "rank_change": 1
+          "rank_change": 0
         },
         {
           "rank": 13,
@@ -4040,7 +6530,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.highbrowinteractive.truck.masters.india.highway.driving.simulator.game&hl=en&gl=in",
           "genre": "Simulation",
           "score": 4.4,
-          "rank_change": -2
+          "rank_change": 0
         },
         {
           "rank": 14,
@@ -4051,7 +6541,7 @@
           "url": "https://play.google.com/store/apps/details?id=io.voodoo.paper2&hl=en&gl=in",
           "genre": "Arcade",
           "score": 4.3,
-          "rank_change": -2
+          "rank_change": 0
         },
         {
           "rank": 15,
@@ -4062,7 +6552,7 @@
           "url": "https://play.google.com/store/apps/details?id=com.oakever.tiletrip&hl=en&gl=in",
           "genre": "Puzzle",
           "score": 4.6,
-          "rank_change": null
+          "rank_change": 0
         }
       ],
       "topselling_grossing": [
