@@ -2,8 +2,8 @@ name: 每週遊戲排行榜週報
 
 on:
   schedule:
-    - cron: "0 2 * * 1"   # 每週一 台灣時間 10:00
-    - cron: "0 2 * * 5"   # 每週五 台灣時間 10:00
+    - cron: "30 2 * * 1"   # 每週一 台灣時間 10:30
+    - cron: "30 2 * * 5"   # 每週五 台灣時間 10:30
   workflow_dispatch:
 
 jobs:
@@ -45,6 +45,7 @@ jobs:
           git add -f reports/preview_report.html
           git add -f rank_snapshot.json
           git diff --staged --quiet || git commit -m "📊 Update report & snapshot $(date +'%Y/%m/%d')"
-          git push
+          git pull --rebase origin main || true
+          git push || (sleep 10 && git pull --rebase origin main && git push)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
