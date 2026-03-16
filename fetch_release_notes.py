@@ -44,17 +44,22 @@ def fetch_gplay_notes(app_id: str, lang: str = "en", country: str = "us") -> dic
     return {}
 
 
+# 優先分析的重點地區（與 Slack 通知一致）
+FOCUS_COUNTRIES = ["tw", "us", "kr", "gb", "sg", "jp", "my", "br", "hk", "in"]
+
 def get_notable_games(appstore_data: dict, gplay_data: dict, min_change: int = 3) -> list:
     """
     找出值得關注的遊戲：
-    - 新進 Top 10（rank_change is None and rank <= 10）
+    - 新進 Top 10（rank_change is None and rank <= 3）
     - 排名變動 >= min_change 且在 Top 10 內
+    優先取重點地區
     回傳 list of dict
     """
     notable = []
     seen = set()  # 避免同一遊戲重複
 
-    for country, charts in appstore_data.items():
+    for country in FOCUS_COUNTRIES:
+        charts = appstore_data.get(country, {})
         for chart_key, apps in charts.items():
             for app in apps:
                 rank   = app.get("rank", 99)
@@ -80,7 +85,8 @@ def get_notable_games(appstore_data: dict, gplay_data: dict, min_change: int = 3
                         "chart":      chart_key,
                     })
 
-    for country, charts in gplay_data.items():
+    for country in FOCUS_COUNTRIES:
+        charts = gplay_data.get(country, {})
         for chart_key, apps in charts.items():
             for app in apps:
                 rank   = app.get("rank", 99)
