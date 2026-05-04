@@ -1,15 +1,15 @@
 """
-用 Gemini API 分析遊戲排名變動原因
+用 Groq API 分析遊戲排名變動原因
 """
 import os
 import json
 import requests
 
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 
 
 def summarize_rank_changes(notable_games: list) -> str:
-    if not GEMINI_API_KEY:
+    if not GROQ_API_KEY:
         return ""
     if not notable_games:
         return ""
@@ -48,17 +48,24 @@ def summarize_rank_changes(notable_games: list) -> str:
 - 直接輸出分析結果，不要自我介紹、不要開場白、不要總結語"""
 
     try:
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
         resp = requests.post(
-            url,
-            json={"contents": [{"parts": [{"text": prompt}]}], "generationConfig": {"maxOutputTokens": 4000}},
+            "https://api.groq.com/openai/v1/chat/completions",
+            headers={
+                "Authorization": f"Bearer {GROQ_API_KEY}",
+                "Content-Type":  "application/json",
+            },
+            json={
+                "model":      "llama-3.3-70b-versatile",
+                "max_tokens": 4000,
+                "messages": [{"role": "user", "content": prompt}]
+            },
             timeout=30,
         )
         data = resp.json()
         if "error" in data:
-            print(f"  Gemini API error: {data['error'].get('message','')}")
+            print(f"  Groq API error: {data['error'].get('message','')}")
             return ""
-        return data["candidates"][0]["content"]["parts"][0]["text"].strip()
+        return data["choices"][0]["message"]["content"].strip()
     except Exception as e:
         print(f"  AI 摘要失敗: {e}")
         return ""

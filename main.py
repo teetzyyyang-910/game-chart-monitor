@@ -53,8 +53,8 @@ def main(preview_only: bool = False, send_slack: bool = False):
 
     # ── 5. 版更資訊 + AI 摘要 ────────────────────────────
     ai_summary = ""
-    if not os.getenv("GEMINI_API_KEY"):
-        print("\n  ⚠️  未設定 GEMINI_API_KEY，跳過 AI 摘要")
+    if not os.getenv("GROQ_API_KEY"):
+        print("\n  ⚠️  未設定 GROQ_API_KEY，跳過 AI 摘要")
     elif not previous.get("date"):
         print("\n  ℹ️  無上次快照，AI 分析將從下次執行開始")
     else:
