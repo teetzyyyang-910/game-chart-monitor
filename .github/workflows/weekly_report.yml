@@ -2,8 +2,7 @@ name: 每週遊戲排行榜週報
 
 on:
   schedule:
-    - cron: "30 2 * * 1"   # 每週一 台灣時間 10:30
-    - cron: "30 2 * * 5"   # 每週五 台灣時間 10:30
+    - cron: "0 2 * * 1"   # 每週一 台灣時間 10:00
   workflow_dispatch:
 
 jobs:
