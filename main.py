@@ -24,13 +24,14 @@ from fetch_release_notes import get_notable_games, enrich_with_notes
 from ai_summary          import summarize_rank_changes
 
 
-def main(preview_only: bool = False, send_slack: bool = False):
+def main(preview_only: bool = False, send_slack: bool = False, weekly_mode: bool = False):
     print("=" * 55)
     print("🎮 遊戲排行榜週報  {}".format(datetime.now().strftime("%Y/%m/%d %H:%M")))
     print("=" * 55)
 
     # ── 1. 載入上次排名 ───────────────────────────────────
-    previous = load_previous()
+    snapshot_file = "weekly_snapshot.json" if weekly_mode else "rank_snapshot.json"
+    previous = load_previous(snapshot_file)
     if previous.get("date"):
         print("  📊 找到上次快照：{}".format(previous["date"]))
     else:
@@ -49,7 +50,7 @@ def main(preview_only: bool = False, send_slack: bool = False):
         add_rank_changes(appstore_data, gplay_data, previous)
 
     # ── 4. 儲存本次快照 ───────────────────────────────────
-    save_snapshot(appstore_data, gplay_data)
+    save_snapshot(appstore_data, gplay_data, snapshot_file)
 
     # ── 5. 版更資訊 + AI 摘要 ────────────────────────────
     ai_summary = ""
@@ -108,5 +109,6 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="遊戲排行榜週報自動化")
     parser.add_argument("--preview", action="store_true", help="只產生 HTML，不寄信")
     parser.add_argument("--slack",   action="store_true", help="發送 Slack 通知")
+    parser.add_argument("--weekly",  action="store_true", help="週報模式：使用 weekly_snapshot.json")
     args = parser.parse_args()
-    main(preview_only=args.preview, send_slack=args.slack)
+    main(preview_only=args.preview, send_slack=args.slack, weekly_mode=args.weekly)
