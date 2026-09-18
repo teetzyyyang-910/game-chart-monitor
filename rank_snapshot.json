@@ -1,5 +1,5 @@
 {
-  "date": "2026/09/17",
+  "date": "2026/09/18",
   "appstore": {
     "sg": {
       "top-free": [
@@ -14,28 +14,28 @@
           "rank": 2
         },
         {
-          "app_id": "6774446268",
-          "name": "Conquest of Nine Kingdoms",
-          "rank": 3
-        },
-        {
           "app_id": "431946152",
           "name": "Roblox",
-          "rank": 4
+          "rank": 3
         },
         {
           "app_id": "6759962259",
           "name": "DAVE THE DIVER",
-          "rank": 5
+          "rank": 4
         },
         {
           "app_id": "1330123889",
           "name": "PUBG MOBILE",
-          "rank": 6
+          "rank": 5
         },
         {
           "app_id": "6761760135",
           "name": "Meowdoku!",
+          "rank": 6
+        },
+        {
+          "app_id": "6774446268",
+          "name": "Conquest of Nine Kingdoms",
           "rank": 7
         },
         {
@@ -49,33 +49,33 @@
           "rank": 9
         },
         {
+          "app_id": "6748084174",
+          "name": "Smash Fest!",
+          "rank": 10
+        },
+        {
           "app_id": "1160056295",
           "name": "Mobile Legends: Bang Bang",
-          "rank": 10
+          "rank": 11
+        },
+        {
+          "app_id": "1117270703",
+          "name": "eFootball™",
+          "rank": 12
         },
         {
           "app_id": "6471045672",
           "name": "Tasty Travels: Merge Game",
-          "rank": 11
-        },
-        {
-          "app_id": "6748084174",
-          "name": "Smash Fest!",
-          "rank": 12
-        },
-        {
-          "app_id": "506627515",
-          "name": "Hay Day",
           "rank": 13
-        },
-        {
-          "app_id": "529479190",
-          "name": "Clash of Clans",
-          "rank": 14
         },
         {
           "app_id": "1617391485",
           "name": "Block Blast!",
+          "rank": 14
+        },
+        {
+          "app_id": "512939461",
+          "name": "Subway Surfers",
           "rank": 15
         }
       ],
@@ -86,73 +86,73 @@
           "rank": 1
         },
         {
-          "app_id": "6444660338",
-          "name": "Legend of Keepers",
+          "app_id": "525818839",
+          "name": "Plague Inc.",
           "rank": 2
         },
         {
-          "app_id": "525818839",
-          "name": "Plague Inc.",
+          "app_id": "6444660338",
+          "name": "Legend of Keepers",
           "rank": 3
-        },
-        {
-          "app_id": "1406710800",
-          "name": "Stardew Valley",
-          "rank": 4
-        },
-        {
-          "app_id": "1444761746",
-          "name": "RFS - Real Flight Simulator",
-          "rank": 5
-        },
-        {
-          "app_id": "6502453075",
-          "name": "Balatro",
-          "rank": 6
-        },
-        {
-          "app_id": "891194610",
-          "name": "Earn to Die 2",
-          "rank": 7
-        },
-        {
-          "app_id": "575154654",
-          "name": "Pou",
-          "rank": 8
         },
         {
           "app_id": "6450713964",
           "name": "Potion Permit",
-          "rank": 9
+          "rank": 4
+        },
+        {
+          "app_id": "1406710800",
+          "name": "Stardew Valley",
+          "rank": 5
         },
         {
           "app_id": "625334537",
           "name": "Geometry Dash",
+          "rank": 6
+        },
+        {
+          "app_id": "1389752090",
+          "name": "Dead Cells",
+          "rank": 7
+        },
+        {
+          "app_id": "6502453075",
+          "name": "Balatro",
+          "rank": 8
+        },
+        {
+          "app_id": "1118115766",
+          "name": "Bloons TD 6",
+          "rank": 9
+        },
+        {
+          "app_id": "640364616",
+          "name": "Terraria",
           "rank": 10
         },
         {
-          "app_id": "1596736236",
-          "name": "Red's First Flight",
+          "app_id": "6758999138",
+          "name": "Knightica",
           "rank": 11
         },
         {
-          "app_id": "6761328517",
-          "name": "Dungeon Within",
+          "app_id": "6463616555",
+          "name": "Ticket to Ride®",
           "rank": 12
         },
         {
-          "app_id": "935216956",
-          "name": "Papers, Please",
+          "app_id": "515114051",
+          "name": "Baldur's Gate",
           "rank": 13
         },
         {
-          "app_id": "6742404565",
-          "name": "Minishoot' Adventures",
+          "app_id": "6801609003",
+          "name": "Submission Saga",
           "rank": 14
         },
         {
-          "app_id": "1239299402",
-          "name": "Street Fighter IV CE",
+          "app_id": "1029932207",
+          "name": "Papa's Cupcakeria To Go!",
           "rank": 15
         }
       ]
@@ -170,18 +170,18 @@
           "rank": 2
         },
         {
-          "app_id": "1160056295",
-          "name": "Mobile Legends: Bang Bang",
+          "app_id": "431946152",
+          "name": "Roblox",
           "rank": 3
         },
         {
-          "app_id": "431946152",
-          "name": "Roblox",
+          "app_id": "1160056295",
+          "name": "Mobile Legends: Bang Bang",
           "rank": 4
         },
         {
-          "app_id": "6759962259",
-          "name": "DAVE THE DIVER",
+          "app_id": "6769314786",
+          "name": "Food Hunt: Pixel Puzzle",
           "rank": 5
         },
         {
@@ -190,8 +190,8 @@
           "rank": 6
         },
         {
-          "app_id": "6769314786",
-          "name": "Food Hunt: Pixel Puzzle",
+          "app_id": "6811228980",
+          "name": "Mystery Kuih: Unbox ASMR",
           "rank": 7
         },
         {
@@ -200,38 +200,38 @@
           "rank": 8
         },
         {
-          "app_id": "6746328263",
-          "name": "Castle Busters",
+          "app_id": "6759962259",
+          "name": "DAVE THE DIVER",
           "rank": 9
-        },
-        {
-          "app_id": "6443575749",
-          "name": "Whiteout Survival",
-          "rank": 10
         },
         {
           "app_id": "6742809194",
           "name": "Warline: Sniper Strike",
+          "rank": 10
+        },
+        {
+          "app_id": "6746328263",
+          "name": "Castle Busters",
           "rank": 11
-        },
-        {
-          "app_id": "6471045672",
-          "name": "Tasty Travels: Merge Game",
-          "rank": 12
-        },
-        {
-          "app_id": "6780387121",
-          "name": "Wild Water World",
-          "rank": 13
-        },
-        {
-          "app_id": "6760325543",
-          "name": "CubeAway - 3DPuzzle",
-          "rank": 14
         },
         {
           "app_id": "6748084174",
           "name": "Smash Fest!",
+          "rank": 12
+        },
+        {
+          "app_id": "6471045672",
+          "name": "Tasty Travels: Merge Game",
+          "rank": 13
+        },
+        {
+          "app_id": "6443575749",
+          "name": "Whiteout Survival",
+          "rank": 14
+        },
+        {
+          "app_id": "6808433278",
+          "name": "The Registry | محاكي السجل",
           "rank": 15
         }
       ],
@@ -252,63 +252,63 @@
           "rank": 3
         },
         {
-          "app_id": "1444761746",
-          "name": "RFS - Real Flight Simulator",
+          "app_id": "1528744354",
+          "name": "Insaquarium: Tap Aquarium",
           "rank": 4
-        },
-        {
-          "app_id": "1406710800",
-          "name": "Stardew Valley",
-          "rank": 5
-        },
-        {
-          "app_id": "6502453075",
-          "name": "Balatro",
-          "rank": 6
         },
         {
           "app_id": "1461751938",
           "name": "Purple Place - Classic Games",
-          "rank": 7
-        },
-        {
-          "app_id": "1528744354",
-          "name": "Insaquarium: Tap Aquarium",
-          "rank": 8
+          "rank": 5
         },
         {
           "app_id": "824305459",
           "name": "Papa's Freezeria To Go!",
-          "rank": 9
+          "rank": 6
+        },
+        {
+          "app_id": "6502453075",
+          "name": "Balatro",
+          "rank": 7
+        },
+        {
+          "app_id": "625334537",
+          "name": "Geometry Dash",
+          "rank": 8
         },
         {
           "app_id": "891194610",
           "name": "Earn to Die 2",
+          "rank": 9
+        },
+        {
+          "app_id": "1444761746",
+          "name": "RFS - Real Flight Simulator",
           "rank": 10
         },
         {
-          "app_id": "6743115658",
-          "name": "TABS Pocket Edition",
+          "app_id": "1262474519",
+          "name": "Monoposto",
           "rank": 11
         },
         {
-          "app_id": "6764310415",
-          "name": "Wobbly Life",
+          "app_id": "904278510",
+          "name": "Hitman Sniper",
           "rank": 12
-        },
-        {
-          "app_id": "6444660338",
-          "name": "Legend of Keepers",
-          "rank": 13
-        },
-        {
-          "app_id": "6738784151",
-          "name": "A Little to the Left: Stars",
-          "rank": 14
         },
         {
           "app_id": "6450713964",
           "name": "Potion Permit",
+          "rank": 13
+        },
+        {
+          "app_id": "1406710800",
+          "name": "Stardew Valley",
+          "rank": 14
+        },
+        {
+          "app_id": "6743115658",
+          "name": "TABS Pocket Edition",
           "rank": 15
         }
       ]
@@ -326,68 +326,68 @@
           "rank": 2
         },
         {
-          "app_id": "6761760135",
-          "name": "Meowdoku!",
+          "app_id": "6754979232",
+          "name": "閃耀吧！嚕咪",
           "rank": 3
         },
         {
-          "app_id": "6793426351",
-          "name": "不良人：破局",
+          "app_id": "6761760135",
+          "name": "Meowdoku!",
           "rank": 4
-        },
-        {
-          "app_id": "6778309357",
-          "name": "嘎嘎特攻",
-          "rank": 5
         },
         {
           "app_id": "6798475528",
           "name": "2026 中職王牌GO!",
+          "rank": 5
+        },
+        {
+          "app_id": "6778309357",
+          "name": "嘎嘎特攻",
           "rank": 6
+        },
+        {
+          "app_id": "6793426351",
+          "name": "不良人：破局",
+          "rank": 7
         },
         {
           "app_id": "6764482952",
           "name": "時尚百貨城",
-          "rank": 7
+          "rank": 8
         },
         {
           "app_id": "6741567125",
           "name": "塔塔冒險隊",
-          "rank": 8
+          "rank": 9
         },
         {
           "app_id": "6803816364",
           "name": "腦洞諧音梗",
-          "rank": 9
+          "rank": 10
         },
         {
           "app_id": "6698862298",
           "name": "締造者：放逐之境",
-          "rank": 10
+          "rank": 11
         },
         {
           "app_id": "6790637624",
           "name": "孔明與阿斗",
-          "rank": 11
+          "rank": 12
         },
         {
           "app_id": "6767834940",
           "name": "最強領主",
-          "rank": 12
+          "rank": 13
         },
         {
-          "app_id": "702739027",
-          "name": "競技麻將2",
-          "rank": 13
+          "app_id": "1606549505",
+          "name": "Royal Kingdom",
+          "rank": 14
         },
         {
           "app_id": "6759696621",
           "name": "小貓咪大史記－黃阿瑪聯動中！",
-          "rank": 14
-        },
-        {
-          "app_id": "6790720778",
-          "name": "解憂夢幻島",
           "rank": 15
         }
       ],
@@ -403,23 +403,23 @@
           "rank": 2
         },
         {
+          "app_id": "6756307024",
+          "name": "The Company: 公司經營模擬",
+          "rank": 3
+        },
+        {
           "app_id": "6760948683",
           "name": "Digline：療癒挖礦",
-          "rank": 3
+          "rank": 4
         },
         {
           "app_id": "525818839",
           "name": "Plague Inc. (瘟疫公司)",
-          "rank": 4
-        },
-        {
-          "app_id": "6756307024",
-          "name": "The Company: 公司經營模擬",
           "rank": 5
         },
         {
-          "app_id": "6761328517",
-          "name": "地牢深處",
+          "app_id": "1450144092",
+          "name": "三國志天下布武 - 單機戰棋策略遊戲",
           "rank": 6
         },
         {
@@ -428,8 +428,8 @@
           "rank": 7
         },
         {
-          "app_id": "1450144092",
-          "name": "三國志天下布武 - 單機戰棋策略遊戲",
+          "app_id": "6761328517",
+          "name": "地牢深處",
           "rank": 8
         },
         {
@@ -438,28 +438,28 @@
           "rank": 9
         },
         {
-          "app_id": "6760401505",
-          "name": "奇幻生活ｉ",
+          "app_id": "6446021269",
+          "name": "ROCKMAN X DiVE Offline",
           "rank": 10
         },
         {
-          "app_id": "1406710800",
-          "name": "Stardew Valley",
+          "app_id": "6760401505",
+          "name": "奇幻生活ｉ",
           "rank": 11
-        },
-        {
-          "app_id": "1609910024",
-          "name": "泰拉瑞亞",
-          "rank": 12
         },
         {
           "app_id": "6809192550",
           "name": "榮冠高中足球物語",
+          "rank": 12
+        },
+        {
+          "app_id": "1406710800",
+          "name": "Stardew Valley",
           "rank": 13
         },
         {
-          "app_id": "6759970821",
-          "name": "地牢合併!（Dungeon Merge!）",
+          "app_id": "1609910024",
+          "name": "泰拉瑞亞",
           "rank": 14
         },
         {
@@ -472,28 +472,28 @@
     "jp": {
       "top-free": [
         {
-          "app_id": "6767834940",
-          "name": "トップロード",
+          "app_id": "6761760135",
+          "name": "Meowdoku!",
           "rank": 1
         },
         {
-          "app_id": "6761760135",
-          "name": "Meowdoku!",
+          "app_id": "6767834940",
+          "name": "トップロード",
           "rank": 2
+        },
+        {
+          "app_id": "6754979232",
+          "name": "Lumi Master（るぅみマスター）",
+          "rank": 3
         },
         {
           "app_id": "6758927408",
           "name": "弱虫ペダル レゾナンス・ぺダイズム",
-          "rank": 3
-        },
-        {
-          "app_id": "6762118255",
-          "name": "コードギアス ナイトメア・サバイバー",
           "rank": 4
         },
         {
-          "app_id": "6780387121",
-          "name": "波乱水世界",
+          "app_id": "6779167923",
+          "name": "Colony Flow!",
           "rank": 5
         },
         {
@@ -502,18 +502,18 @@
           "rank": 6
         },
         {
-          "app_id": "6780761128",
-          "name": "エバーナイト：リバース",
+          "app_id": "6748084174",
+          "name": "Smash Fest!",
           "rank": 7
         },
         {
-          "app_id": "6779167923",
-          "name": "Colony Flow!",
+          "app_id": "6780387121",
+          "name": "波乱水世界",
           "rank": 8
         },
         {
-          "app_id": "6748084174",
-          "name": "Smash Fest!",
+          "app_id": "1617391485",
+          "name": "ブロックブラスト (Block Blast)",
           "rank": 9
         },
         {
@@ -522,8 +522,8 @@
           "rank": 10
         },
         {
-          "app_id": "1617391485",
-          "name": "ブロックブラスト (Block Blast)",
+          "app_id": "6762118255",
+          "name": "コードギアス ナイトメア・サバイバー",
           "rank": 11
         },
         {
@@ -537,13 +537,13 @@
           "rank": 13
         },
         {
-          "app_id": "6759962259",
-          "name": "デイヴ・ザ・ダイバー",
+          "app_id": "6769314786",
+          "name": "Food Hunt: Pixel Puzzle",
           "rank": 14
         },
         {
-          "app_id": "6741503079",
-          "name": "Pokémon Champions",
+          "app_id": "6771681142",
+          "name": "漢字分解パズル",
           "rank": 15
         }
       ],
@@ -574,23 +574,23 @@
           "rank": 5
         },
         {
-          "app_id": "6790289724",
-          "name": "無限ほりほり: 採掘・作業ゲーム",
-          "rank": 6
-        },
-        {
           "app_id": "6802539506",
           "name": "スマスロ 甲鉄城のカバネリ 海門（うなと）決戦",
-          "rank": 7
-        },
-        {
-          "app_id": "1496918059",
-          "name": "ドラゴンクエストモンスターズ2　イルとルカの不思議な鍵SP",
-          "rank": 8
+          "rank": 6
         },
         {
           "app_id": "933111586",
           "name": "ドラゴンクエストV 天空の花嫁",
+          "rank": 7
+        },
+        {
+          "app_id": "6790289724",
+          "name": "無限ほりほり: 採掘・作業ゲーム",
+          "rank": 8
+        },
+        {
+          "app_id": "1496918059",
+          "name": "ドラゴンクエストモンスターズ2　イルとルカの不思議な鍵SP",
           "rank": 9
         },
         {
@@ -599,23 +599,23 @@
           "rank": 10
         },
         {
+          "app_id": "6450713964",
+          "name": "Potion Permit",
+          "rank": 11
+        },
+        {
           "app_id": "6762605506",
           "name": "パチスロ 革命機ヴァルヴレイヴ2",
-          "rank": 11
+          "rank": 12
         },
         {
           "app_id": "479428095",
           "name": "クロノ・トリガー （アップグレード版）",
-          "rank": 12
+          "rank": 13
         },
         {
           "app_id": "6754688764",
           "name": "不思議のダンジョン 風来のシレン6plus",
-          "rank": 13
-        },
-        {
-          "app_id": "6450713964",
-          "name": "Potion Permit",
           "rank": 14
         },
         {
@@ -633,73 +633,73 @@
           "rank": 1
         },
         {
-          "app_id": "6780387121",
-          "name": "아쿠아랜드: 크레이지 서바이벌",
+          "app_id": "6793854765",
+          "name": "후더덕 서바이벌",
           "rank": 2
         },
         {
-          "app_id": "6767834940",
-          "name": "탑 로드",
+          "app_id": "6780387121",
+          "name": "아쿠아랜드: 크레이지 서바이벌",
           "rank": 3
+        },
+        {
+          "app_id": "6760446844",
+          "name": "루미마스터",
+          "rank": 4
         },
         {
           "app_id": "1583108224",
           "name": "안녕 Popcorn",
-          "rank": 4
+          "rank": 5
+        },
+        {
+          "app_id": "6767834940",
+          "name": "탑 로드",
+          "rank": 6
         },
         {
           "app_id": "431946152",
           "name": "로블록스(Roblox)",
-          "rank": 5
+          "rank": 7
         },
         {
           "app_id": "6743432461",
           "name": "스킬 마법사 키우기 : 신규 서버 오픈",
-          "rank": 6
+          "rank": 8
         },
         {
           "app_id": "6752672568",
           "name": "Block Out! - Color Sort Puzzle",
-          "rank": 7
-        },
-        {
-          "app_id": "6778703795",
-          "name": "뽀록 마법 디펜스: 협동 야호",
-          "rank": 8
+          "rank": 9
         },
         {
           "app_id": "1617391485",
           "name": "블록 블라스트 (Block Blast)",
-          "rank": 9
+          "rank": 10
+        },
+        {
+          "app_id": "6738109752",
+          "name": "타일 서바이벌",
+          "rank": 11
         },
         {
           "app_id": "6764201639",
           "name": "총잡이 고양이 - 방치형 키우기",
-          "rank": 10
+          "rank": 12
         },
         {
-          "app_id": "6762976425",
-          "name": "에버나이트: 리버스",
-          "rank": 11
+          "app_id": "6778703795",
+          "name": "뽀록 마법 디펜스: 협동 야호",
+          "rank": 13
         },
         {
           "app_id": "6755455500",
           "name": "할리우드 머지",
-          "rank": 12
+          "rank": 14
         },
         {
           "app_id": "6786589102",
           "name": "티니핑 매직 매치",
-          "rank": 13
-        },
-        {
-          "app_id": "6748084174",
-          "name": "Smash Fest!",
-          "rank": 14
-        },
-        {
-          "app_id": "6761760135",
-          "name": "Meowdoku!",
           "rank": 15
         }
       ],
@@ -720,13 +720,13 @@
           "rank": 3
         },
         {
-          "app_id": "6801980968",
-          "name": "탑과 용병단",
+          "app_id": "6450713964",
+          "name": "Potion Permit",
           "rank": 4
         },
         {
-          "app_id": "6450713964",
-          "name": "Potion Permit",
+          "app_id": "6801980968",
+          "name": "탑과 용병단",
           "rank": 5
         },
         {
@@ -735,48 +735,48 @@
           "rank": 6
         },
         {
-          "app_id": "575154654",
-          "name": "Pou",
+          "app_id": "6748751735",
+          "name": "Servant of the Lake",
           "rank": 7
         },
         {
-          "app_id": "6737589561",
-          "name": "워리어 인 던전",
+          "app_id": "575154654",
+          "name": "Pou",
           "rank": 8
-        },
-        {
-          "app_id": "1601446687",
-          "name": "베어 너클 4(Streets of Rage 4)",
-          "rank": 9
-        },
-        {
-          "app_id": "6748751735",
-          "name": "Servant of the Lake",
-          "rank": 10
         },
         {
           "app_id": "1456547302",
           "name": "A Dance of Fire and Ice",
-          "rank": 11
-        },
-        {
-          "app_id": "525818839",
-          "name": "Plague Inc. (전염병 주식회사)",
-          "rank": 12
+          "rank": 9
         },
         {
           "app_id": "6458144503",
           "name": "Skul: The Hero Slayer",
-          "rank": 13
+          "rank": 10
+        },
+        {
+          "app_id": "6737589561",
+          "name": "워리어 인 던전",
+          "rank": 11
+        },
+        {
+          "app_id": "1601446687",
+          "name": "베어 너클 4(Streets of Rage 4)",
+          "rank": 12
         },
         {
           "app_id": "1596736236",
           "name": "Rovio Classics: Angry Birds",
+          "rank": 13
+        },
+        {
+          "app_id": "6794754217",
+          "name": "야구 못하면 또 환생함: 투수 키우기",
           "rank": 14
         },
         {
-          "app_id": "6502453075",
-          "name": "Balatro",
+          "app_id": "625334537",
+          "name": "Geometry Dash",
           "rank": 15
         }
       ]
@@ -804,13 +804,13 @@
           "rank": 4
         },
         {
-          "app_id": "6760325543",
-          "name": "CubeAway - 3DPuzzle",
+          "app_id": "6779167923",
+          "name": "Colony Flow!",
           "rank": 5
         },
         {
-          "app_id": "6779167923",
-          "name": "Colony Flow!",
+          "app_id": "6760325543",
+          "name": "CubeAway - 3DPuzzle",
           "rank": 6
         },
         {
@@ -829,33 +829,33 @@
           "rank": 9
         },
         {
-          "app_id": "6471045672",
-          "name": "Tasty Travels: Merge Game",
-          "rank": 10
-        },
-        {
-          "app_id": "6758326278",
-          "name": "Amaze GO!",
-          "rank": 11
-        },
-        {
-          "app_id": "1623318294",
-          "name": "Gossip Harbor®: Merge & Story",
-          "rank": 12
-        },
-        {
           "app_id": "431946152",
           "name": "Roblox",
-          "rank": 13
-        },
-        {
-          "app_id": "6780891673",
-          "name": "Royal Smash! - Physics Puzzle",
-          "rank": 14
+          "rank": 10
         },
         {
           "app_id": "1617391485",
           "name": "Block Blast！",
+          "rank": 11
+        },
+        {
+          "app_id": "6758326278",
+          "name": "Amaze GO!",
+          "rank": 12
+        },
+        {
+          "app_id": "6780891673",
+          "name": "Royal Smash! - Physics Puzzle",
+          "rank": 13
+        },
+        {
+          "app_id": "6471045672",
+          "name": "Tasty Travels: Merge Game",
+          "rank": 14
+        },
+        {
+          "app_id": "6754979232",
+          "name": "Lumi Master",
           "rank": 15
         }
       ],
@@ -866,13 +866,13 @@
           "rank": 1
         },
         {
-          "app_id": "623592465",
-          "name": "Heads Up!",
+          "app_id": "525818839",
+          "name": "Plague Inc.",
           "rank": 2
         },
         {
-          "app_id": "525818839",
-          "name": "Plague Inc.",
+          "app_id": "623592465",
+          "name": "Heads Up!",
           "rank": 3
         },
         {
@@ -916,23 +916,23 @@
           "rank": 11
         },
         {
-          "app_id": "6758328352",
-          "name": "Scritchy Scratchy",
+          "app_id": "640364616",
+          "name": "Terraria",
           "rank": 12
         },
         {
-          "app_id": "640364616",
-          "name": "Terraria",
+          "app_id": "6758328352",
+          "name": "Scritchy Scratchy",
           "rank": 13
         },
         {
-          "app_id": "6795586467",
-          "name": "Dice A Million",
+          "app_id": "891194610",
+          "name": "Earn to Die 2",
           "rank": 14
         },
         {
-          "app_id": "575154654",
-          "name": "Pou",
+          "app_id": "1491530147",
+          "name": "Slay the Spire",
           "rank": 15
         }
       ]
@@ -955,48 +955,48 @@
           "rank": 3
         },
         {
-          "app_id": "6503636810",
-          "name": "Screw Match®: ASMR Game",
-          "rank": 4
-        },
-        {
           "app_id": "431946152",
           "name": "Roblox",
-          "rank": 5
-        },
-        {
-          "app_id": "6471045672",
-          "name": "Tasty Travels: Merge Game",
-          "rank": 6
+          "rank": 4
         },
         {
           "app_id": "6779167923",
           "name": "Colony Flow!",
-          "rank": 7
+          "rank": 5
+        },
+        {
+          "app_id": "6503636810",
+          "name": "Screw Match®: ASMR Game",
+          "rank": 6
         },
         {
           "app_id": "512939461",
           "name": "Subway Surfers",
-          "rank": 8
+          "rank": 7
         },
         {
           "app_id": "543186831",
           "name": "8 Ball Pool™",
-          "rank": 9
-        },
-        {
-          "app_id": "6793362326",
-          "name": "Arrow Escape: Puzzle Master",
-          "rank": 10
+          "rank": 8
         },
         {
           "app_id": "1617391485",
           "name": "Block Blast!",
-          "rank": 11
+          "rank": 9
+        },
+        {
+          "app_id": "6471045672",
+          "name": "Tasty Travels: Merge Game",
+          "rank": 10
         },
         {
           "app_id": "6761760135",
           "name": "Meowdoku!",
+          "rank": 11
+        },
+        {
+          "app_id": "6793362326",
+          "name": "Arrow Escape: Puzzle Master",
           "rank": 12
         },
         {
@@ -1010,8 +1010,8 @@
           "rank": 14
         },
         {
-          "app_id": "6499209744",
-          "name": "Magic Sort!",
+          "app_id": "1117270703",
+          "name": "eFootball™",
           "rank": 15
         }
       ],
@@ -1047,43 +1047,43 @@
           "rank": 6
         },
         {
-          "app_id": "1461751938",
-          "name": "Purple Place - Classic Games",
+          "app_id": "891194610",
+          "name": "Earn to Die 2",
           "rank": 7
         },
         {
-          "app_id": "891194610",
-          "name": "Earn to Die 2",
+          "app_id": "1461751938",
+          "name": "Purple Place - Classic Games",
           "rank": 8
-        },
-        {
-          "app_id": "640364616",
-          "name": "Terraria",
-          "rank": 9
         },
         {
           "app_id": "1474716211",
           "name": "60 Seconds! Reatomized",
-          "rank": 10
-        },
-        {
-          "app_id": "1239299402",
-          "name": "Street Fighter IV CE",
-          "rank": 11
-        },
-        {
-          "app_id": "1444761746",
-          "name": "RFS - Real Flight Simulator",
-          "rank": 12
+          "rank": 9
         },
         {
           "app_id": "6748056918",
           "name": "Farming Simulator 26 Mobile",
+          "rank": 10
+        },
+        {
+          "app_id": "640364616",
+          "name": "Terraria",
+          "rank": 11
+        },
+        {
+          "app_id": "1239299402",
+          "name": "Street Fighter IV CE",
+          "rank": 12
+        },
+        {
+          "app_id": "1444761746",
+          "name": "RFS - Real Flight Simulator",
           "rank": 13
         },
         {
-          "app_id": "6757801598",
-          "name": "Custom Cars: Online Drive",
+          "app_id": "1596736236",
+          "name": "Rovio Classics: Angry Birds",
           "rank": 14
         },
         {
@@ -1096,23 +1096,23 @@
     "gb": {
       "top-free": [
         {
-          "app_id": "1623318294",
-          "name": "Gossip Harbor®: Merge & Story",
+          "app_id": "6752672568",
+          "name": "Block Out! - Color Sort Puzzle",
           "rank": 1
         },
         {
-          "app_id": "6752672568",
-          "name": "Block Out! - Color Sort Puzzle",
+          "app_id": "1623318294",
+          "name": "Gossip Harbor®: Merge & Story",
           "rank": 2
-        },
-        {
-          "app_id": "6748084174",
-          "name": "Smash Fest!",
-          "rank": 3
         },
         {
           "app_id": "6761760135",
           "name": "Meowdoku!",
+          "rank": 3
+        },
+        {
+          "app_id": "6748084174",
+          "name": "Smash Fest!",
           "rank": 4
         },
         {
@@ -1126,48 +1126,48 @@
           "rank": 6
         },
         {
-          "app_id": "6758326278",
-          "name": "Amaze GO!",
+          "app_id": "6779167923",
+          "name": "Colony Flow!",
           "rank": 7
         },
         {
-          "app_id": "6778744843",
-          "name": "Golazo: Football Game",
+          "app_id": "6758326278",
+          "name": "Amaze GO!",
           "rank": 8
-        },
-        {
-          "app_id": "6471045672",
-          "name": "Tasty Travels: Merge Game",
-          "rank": 9
         },
         {
           "app_id": "6499209744",
           "name": "Magic Sort!",
-          "rank": 10
+          "rank": 9
         },
         {
           "app_id": "1617391485",
           "name": "Block Blast!",
-          "rank": 11
+          "rank": 10
         },
         {
-          "app_id": "1521236603",
-          "name": "Travel Town - Merge Adventure",
-          "rank": 12
+          "app_id": "6742809194",
+          "name": "Warline: Sniper Strike",
+          "rank": 11
         },
         {
           "app_id": "1482155847",
           "name": "Royal Match",
+          "rank": 12
+        },
+        {
+          "app_id": "6471045672",
+          "name": "Tasty Travels: Merge Game",
           "rank": 13
+        },
+        {
+          "app_id": "6778744843",
+          "name": "Golazo: Football Game",
+          "rank": 14
         },
         {
           "app_id": "6468921495",
           "name": "Vita Mahjong",
-          "rank": 14
-        },
-        {
-          "app_id": "6779167923",
-          "name": "Colony Flow!",
           "rank": 15
         }
       ],
@@ -1188,28 +1188,28 @@
           "rank": 3
         },
         {
+          "app_id": "1477966166",
+          "name": "MONOPOLY",
+          "rank": 4
+        },
+        {
           "app_id": "6761129391",
           "name": "No. 10: Full Confidence",
-          "rank": 4
+          "rank": 5
         },
         {
           "app_id": "625334537",
           "name": "Geometry Dash",
-          "rank": 5
-        },
-        {
-          "app_id": "1477966166",
-          "name": "MONOPOLY",
           "rank": 6
-        },
-        {
-          "app_id": "1406710800",
-          "name": "Stardew Valley",
-          "rank": 7
         },
         {
           "app_id": "1118115766",
           "name": "Bloons TD 6",
+          "rank": 7
+        },
+        {
+          "app_id": "1596736236",
+          "name": "Red's First Flight",
           "rank": 8
         },
         {
@@ -1218,13 +1218,13 @@
           "rank": 9
         },
         {
-          "app_id": "1596736236",
-          "name": "Red's First Flight",
+          "app_id": "891194610",
+          "name": "Earn to Die 2",
           "rank": 10
         },
         {
-          "app_id": "891194610",
-          "name": "Earn to Die 2",
+          "app_id": "1406710800",
+          "name": "Stardew Valley",
           "rank": 11
         },
         {
@@ -1233,18 +1233,18 @@
           "rank": 12
         },
         {
-          "app_id": "1631859420",
-          "name": "After Inc.",
+          "app_id": "1040137269",
+          "name": "Countdown - The Official TV Show App",
           "rank": 13
         },
         {
-          "app_id": "1040137269",
-          "name": "Countdown - The Official TV Show App",
+          "app_id": "763692274",
+          "name": "Grand Theft Auto: San Andreas",
           "rank": 14
         },
         {
-          "app_id": "575154654",
-          "name": "Pou",
+          "app_id": "1631859420",
+          "name": "After Inc.",
           "rank": 15
         }
       ]
@@ -1257,33 +1257,33 @@
           "rank": 1
         },
         {
-          "app_id": "6780387121",
-          "name": "瘋狂水世界",
+          "app_id": "6754979232",
+          "name": "閃耀吧！嚕咪",
           "rank": 2
         },
         {
-          "app_id": "6789958124",
-          "name": "HK Driving Game",
+          "app_id": "6780387121",
+          "name": "瘋狂水世界",
           "rank": 3
         },
         {
-          "app_id": "6793426351",
-          "name": "不良人：破局",
+          "app_id": "6757261926",
+          "name": "Reality Bay: 合成與發現",
           "rank": 4
-        },
-        {
-          "app_id": "6741567125",
-          "name": "塔塔冒險隊",
-          "rank": 5
         },
         {
           "app_id": "6761760135",
           "name": "Meowdoku!",
+          "rank": 5
+        },
+        {
+          "app_id": "6789958124",
+          "name": "HK Driving Game",
           "rank": 6
         },
         {
-          "app_id": "6764482952",
-          "name": "時尚百貨城",
+          "app_id": "6741567125",
+          "name": "塔塔冒險隊",
           "rank": 7
         },
         {
@@ -1292,28 +1292,28 @@
           "rank": 8
         },
         {
-          "app_id": "6759696621",
-          "name": "小貓咪大史記－黃阿瑪聯動中！",
+          "app_id": "6764482952",
+          "name": "時尚百貨城",
           "rank": 9
+        },
+        {
+          "app_id": "6793426351",
+          "name": "不良人：破局",
+          "rank": 10
         },
         {
           "app_id": "6471045672",
           "name": "食光旅行",
-          "rank": 10
-        },
-        {
-          "app_id": "6778309357",
-          "name": "嘎嘎特攻",
           "rank": 11
-        },
-        {
-          "app_id": "6790720778",
-          "name": "解憂夢幻島",
-          "rank": 12
         },
         {
           "app_id": "6748084174",
           "name": "Smash Fest!",
+          "rank": 12
+        },
+        {
+          "app_id": "6778309357",
+          "name": "嘎嘎特攻",
           "rank": 13
         },
         {
@@ -1322,8 +1322,8 @@
           "rank": 14
         },
         {
-          "app_id": "6755455500",
-          "name": "好萊塢合成：星夢逆襲",
+          "app_id": "6758072393",
+          "name": "墮落之美：合成與故事",
           "rank": 15
         }
       ],
@@ -1339,48 +1339,48 @@
           "rank": 2
         },
         {
-          "app_id": "6741892043",
-          "name": "女王的遊戲：盛世天下",
-          "rank": 3
-        },
-        {
-          "app_id": "6670749900",
-          "name": "再戰江湖 - 金庸群俠傳MOD復刻",
-          "rank": 4
-        },
-        {
-          "app_id": "1609910024",
-          "name": "泰拉瑞亞",
-          "rank": 5
-        },
-        {
           "app_id": "1659271912",
           "name": "東京電車２",
-          "rank": 6
+          "rank": 3
         },
         {
           "app_id": "525818839",
           "name": "Plague Inc. (瘟疫公司)",
-          "rank": 7
+          "rank": 4
         },
         {
-          "app_id": "6502453075",
-          "name": "Balatro",
-          "rank": 8
+          "app_id": "6670749900",
+          "name": "再戰江湖 - 金庸群俠傳MOD復刻",
+          "rank": 5
         },
         {
-          "app_id": "6502623166",
-          "name": "金武江湖 - 單機金庸群俠傳復刻",
-          "rank": 9
-        },
-        {
-          "app_id": "837860959",
-          "name": "迷你地鐵",
-          "rank": 10
+          "app_id": "6741892043",
+          "name": "女王的遊戲：盛世天下",
+          "rank": 6
         },
         {
           "app_id": "1642139491",
           "name": "東京電車",
+          "rank": 7
+        },
+        {
+          "app_id": "6502623166",
+          "name": "金武江湖 - 單機金庸群俠傳復刻",
+          "rank": 8
+        },
+        {
+          "app_id": "6502453075",
+          "name": "Balatro",
+          "rank": 9
+        },
+        {
+          "app_id": "1609910024",
+          "name": "泰拉瑞亞",
+          "rank": 10
+        },
+        {
+          "app_id": "6496281889",
+          "name": "末世戰神",
           "rank": 11
         },
         {
@@ -1389,13 +1389,13 @@
           "rank": 12
         },
         {
-          "app_id": "1444761746",
-          "name": "RFS - Real Flight Simulator",
+          "app_id": "891194610",
+          "name": "戰車撞殭屍2 (Earn to Die 2)",
           "rank": 13
         },
         {
-          "app_id": "1450144092",
-          "name": "三國志天下布武 - 單機戰棋策略遊戲",
+          "app_id": "1444761746",
+          "name": "RFS - Real Flight Simulator",
           "rank": 14
         },
         {
@@ -1408,13 +1408,13 @@
     "in": {
       "top-free": [
         {
-          "app_id": "1562817072",
-          "name": "Mob Control",
+          "app_id": "993090598",
+          "name": "Ludo King",
           "rank": 1
         },
         {
-          "app_id": "993090598",
-          "name": "Ludo King",
+          "app_id": "1562817072",
+          "name": "Mob Control",
           "rank": 2
         },
         {
@@ -1423,8 +1423,8 @@
           "rank": 3
         },
         {
-          "app_id": "6468921495",
-          "name": "Vita Mahjong",
+          "app_id": "6748084174",
+          "name": "Smash Fest!",
           "rank": 4
         },
         {
@@ -1438,8 +1438,8 @@
           "rank": 6
         },
         {
-          "app_id": "6748084174",
-          "name": "Smash Fest!",
+          "app_id": "6468921495",
+          "name": "Vita Mahjong",
           "rank": 7
         },
         {
@@ -1448,18 +1448,18 @@
           "rank": 8
         },
         {
+          "app_id": "6746743297",
+          "name": "Bus Fever Party!",
+          "rank": 9
+        },
+        {
           "app_id": "512939461",
           "name": "Subway Surfers",
-          "rank": 9
+          "rank": 10
         },
         {
           "app_id": "1482155847",
           "name": "Royal Match",
-          "rank": 10
-        },
-        {
-          "app_id": "6746743297",
-          "name": "Bus Fever Party!",
           "rank": 11
         },
         {
@@ -1468,18 +1468,18 @@
           "rank": 12
         },
         {
-          "app_id": "553834731",
-          "name": "Candy Crush Saga",
+          "app_id": "1420551478",
+          "name": "Carrom Pool: Disc Game",
           "rank": 13
         },
         {
-          "app_id": "6739124364",
-          "name": "Top Tycoon: Coin Theme Empire",
+          "app_id": "553834731",
+          "name": "Candy Crush Saga",
           "rank": 14
         },
         {
-          "app_id": "1376515087",
-          "name": "Age of Origins:Tower Defense",
+          "app_id": "1617391485",
+          "name": "Block Blast!",
           "rank": 15
         }
       ],
@@ -1500,23 +1500,23 @@
           "rank": 3
         },
         {
-          "app_id": "6469419567",
-          "name": "Overwinter Survival",
+          "app_id": "891194610",
+          "name": "Earn to Die 2",
           "rank": 4
         },
         {
-          "app_id": "891194610",
-          "name": "Earn to Die 2",
+          "app_id": "6469419567",
+          "name": "Overwinter Survival",
           "rank": 5
-        },
-        {
-          "app_id": "6787224759",
-          "name": "Paint Body",
-          "rank": 6
         },
         {
           "app_id": "6447262835",
           "name": "Super Farming Boy",
+          "rank": 6
+        },
+        {
+          "app_id": "6787224759",
+          "name": "Paint Body",
           "rank": 7
         },
         {
@@ -1525,8 +1525,8 @@
           "rank": 8
         },
         {
-          "app_id": "1592505377",
-          "name": "Wreckfest",
+          "app_id": "1444761746",
+          "name": "RFS - Real Flight Simulator",
           "rank": 9
         },
         {
@@ -1535,28 +1535,28 @@
           "rank": 10
         },
         {
-          "app_id": "6791208939",
-          "name": "Barmen: Bar Manager",
+          "app_id": "763692274",
+          "name": "Grand Theft Auto: San Andreas",
           "rank": 11
         },
         {
-          "app_id": "1444761746",
-          "name": "RFS - Real Flight Simulator",
+          "app_id": "6791208939",
+          "name": "Barmen: Bar Manager",
           "rank": 12
+        },
+        {
+          "app_id": "6757699360",
+          "name": "Border Checkpoint Officer",
+          "rank": 13
+        },
+        {
+          "app_id": "1239299402",
+          "name": "Street Fighter IV CE",
+          "rank": 14
         },
         {
           "app_id": "1514477582",
           "name": "Monarchia",
-          "rank": 13
-        },
-        {
-          "app_id": "1558776231",
-          "name": "Mika's Treasure 2 Collection",
-          "rank": 14
-        },
-        {
-          "app_id": "763692274",
-          "name": "Grand Theft Auto: San Andreas",
           "rank": 15
         }
       ]
@@ -1586,13 +1586,13 @@
           "rank": 4
         },
         {
-          "app_id": "com.oakever.arrows",
-          "name": "Amaze GO!",
+          "app_id": "com.hybeim.architect",
+          "name": "Architect: Land of Exiles",
           "rank": 5
         },
         {
-          "app_id": "com.hybeim.architect",
-          "name": "Architect: Land of Exiles",
+          "app_id": "com.oakever.arrows",
+          "name": "Amaze GO!",
           "rank": 6
         },
         {
@@ -1616,8 +1616,8 @@
           "rank": 10
         },
         {
-          "app_id": "com.brain.puzzle.tricky.test.annoying.quest",
-          "name": "Brain Puzzle: Tricky Test",
+          "app_id": "com.dts.freefireth",
+          "name": "Free Fire x NARUTO SHIPPUDEN",
           "rank": 11
         },
         {
@@ -1626,18 +1626,18 @@
           "rank": 12
         },
         {
-          "app_id": "com.project.idle.cd",
-          "name": "Top Force",
+          "app_id": "com.playpark.northland",
+          "name": "Norse Saga",
           "rank": 13
         },
         {
-          "app_id": "com.mobile.legends",
-          "name": "Mobile Legends: Bang Bang",
+          "app_id": "com.brain.puzzle.tricky.test.annoying.quest",
+          "name": "Brain Puzzle: Tricky Test",
           "rank": 14
         },
         {
-          "app_id": "com.dts.freefireth",
-          "name": "Free Fire x NARUTO SHIPPUDEN",
+          "app_id": "com.project.idle.cd",
+          "name": "Top Force",
           "rank": 15
         }
       ],
@@ -1663,13 +1663,13 @@
           "rank": 4
         },
         {
-          "app_id": "com.mergegames.gossipharbor",
-          "name": "Gossip Harbor®: Merge & Story",
+          "app_id": "com.scopely.monopolygo",
+          "name": "MONOPOLY GO!",
           "rank": 5
         },
         {
-          "app_id": "com.scopely.monopolygo",
-          "name": "MONOPOLY GO!",
+          "app_id": "com.mergegames.gossipharbor",
+          "name": "Gossip Harbor®: Merge & Story",
           "rank": 6
         },
         {
@@ -1693,18 +1693,18 @@
           "rank": 10
         },
         {
-          "app_id": "com.garena.game.codm",
-          "name": "Call of Duty®: Mobile - Garena",
-          "rank": 11
-        },
-        {
           "app_id": "com.igs.mjstar31",
           "name": "麻將 明星3缺1-16張Mahjong、Slot、Poker",
-          "rank": 12
+          "rank": 11
         },
         {
           "app_id": "com.fun.lastwar.gp",
           "name": "Last War:Survival Game",
+          "rank": 12
+        },
+        {
+          "app_id": "com.garena.game.codm",
+          "name": "Call of Duty®: Mobile - Garena",
           "rank": 13
         },
         {
@@ -1713,8 +1713,8 @@
           "rank": 14
         },
         {
-          "app_id": "air.com.playtika.slotomania",
-          "name": "Slotomania™ Slots Casino Games",
+          "app_id": "com.nexon.maplem.global",
+          "name": "MapleStory M - Fantasy MMORPG",
           "rank": 15
         }
       ]
@@ -1747,13 +1747,13 @@
           "rank": 5
         },
         {
-          "app_id": "com.studiosirenia.minimuse",
-          "name": "MiniMuse",
+          "app_id": "com.dts.freefireth",
+          "name": "Free Fire x NARUTO SHIPPUDEN",
           "rank": 6
         },
         {
-          "app_id": "com.dts.freefireth",
-          "name": "Free Fire x NARUTO SHIPPUDEN",
+          "app_id": "com.studiosirenia.minimuse",
+          "name": "MiniMuse",
           "rank": 7
         },
         {
@@ -1768,7 +1768,7 @@
         },
         {
           "app_id": "com.metax.obby.escape.run",
-          "name": "Gugu Gaga: Keyboard Escape",
+          "name": "Keyboard Escape: +1 Speed ASMR",
           "rank": 10
         },
         {
@@ -1777,13 +1777,13 @@
           "rank": 11
         },
         {
-          "app_id": "com.grandgames.magicsort",
-          "name": "Magic Sort!",
+          "app_id": "com.dts.freefiremax",
+          "name": "Free Fire MAX x NARUTO",
           "rank": 12
         },
         {
-          "app_id": "com.wilds.craft.mysticland.explore",
-          "name": "Block Craft 3D: Realm Builder",
+          "app_id": "com.grandgames.magicsort",
+          "name": "Magic Sort!",
           "rank": 13
         },
         {
@@ -1792,20 +1792,20 @@
           "rank": 14
         },
         {
-          "app_id": "com.dts.freefiremax",
-          "name": "Free Fire MAX x NARUTO",
+          "app_id": "com.wilds.craft.mysticland.explore",
+          "name": "Block Craft 3D: Realm Builder",
           "rank": 15
         }
       ],
       "topselling_grossing": [
         {
-          "app_id": "com.roblox.client",
-          "name": "Roblox",
+          "app_id": "jp.konami.pesam",
+          "name": "eFootball™",
           "rank": 1
         },
         {
-          "app_id": "jp.konami.pesam",
-          "name": "eFootball™",
+          "app_id": "com.roblox.client",
+          "name": "Roblox",
           "rank": 2
         },
         {
@@ -1819,13 +1819,13 @@
           "rank": 4
         },
         {
-          "app_id": "com.tencent.ig",
-          "name": "PUBG MOBILE",
+          "app_id": "com.mergegames.gossipharbor",
+          "name": "Gossip Harbor®: Merge & Story",
           "rank": 5
         },
         {
-          "app_id": "com.mergegames.gossipharbor",
-          "name": "Gossip Harbor®: Merge & Story",
+          "app_id": "com.tencent.ig",
+          "name": "PUBG MOBILE",
           "rank": 6
         },
         {
@@ -1834,43 +1834,43 @@
           "rank": 7
         },
         {
-          "app_id": "com.levelinfinite.sgameGlobal",
-          "name": "Honor of Kings",
-          "rank": 8
-        },
-        {
           "app_id": "com.king.candycrushsaga",
           "name": "Candy Crush Saga",
-          "rank": 9
+          "rank": 8
         },
         {
           "app_id": "com.dts.freefireth",
           "name": "Free Fire x NARUTO SHIPPUDEN",
-          "rank": 10
+          "rank": 9
         },
         {
-          "app_id": "com.supercell.clashofclans",
-          "name": "Clash of Clans",
-          "rank": 11
+          "app_id": "com.levelinfinite.sgameGlobal",
+          "name": "Honor of Kings",
+          "rank": 10
         },
         {
           "app_id": "com.run.tower.defense",
           "name": "Kingshot",
-          "rank": 12
+          "rank": 11
         },
         {
-          "app_id": "com.garena.game.codm",
-          "name": "Call of Duty®: Mobile - Garena",
-          "rank": 13
+          "app_id": "com.supercell.clashofclans",
+          "name": "Clash of Clans",
+          "rank": 12
         },
         {
           "app_id": "com.ea.gp.fifamobile",
           "name": "EA SPORTS FC Soccer Mobile 26",
+          "rank": 13
+        },
+        {
+          "app_id": "com.dts.freefiremax",
+          "name": "Free Fire MAX x NARUTO",
           "rank": 14
         },
         {
-          "app_id": "com.playrix.gardenscapes",
-          "name": "Gardenscapes",
+          "app_id": "com.garena.game.codm",
+          "name": "Call of Duty®: Mobile - Garena",
           "rank": 15
         }
       ]
@@ -1878,13 +1878,13 @@
     "tw": {
       "topselling_free": [
         {
-          "app_id": "com.iyagames.flotshelter",
-          "name": "Wild Water World",
+          "app_id": "com.oakever.meowdoku",
+          "name": "Meowdoku: 脑力解谜游戏",
           "rank": 1
         },
         {
-          "app_id": "com.oakever.meowdoku",
-          "name": "Meowdoku: 脑力解谜游戏",
+          "app_id": "com.iyagames.flotshelter",
+          "name": "Wild Water World",
           "rank": 2
         },
         {
@@ -1898,18 +1898,18 @@
           "rank": 4
         },
         {
-          "app_id": "com.farlightgames.pgame.gp",
-          "name": "塔塔冒险队",
-          "rank": 5
-        },
-        {
           "app_id": "com.hybeim.architect",
           "name": "Architect: Land of Exiles",
-          "rank": 6
+          "rank": 5
         },
         {
           "app_id": "com.badguytw.gp",
           "name": "不良人：破局",
+          "rank": 6
+        },
+        {
+          "app_id": "com.farlightgames.pgame.gp",
+          "name": "塔塔冒险队",
           "rank": 7
         },
         {
@@ -1928,28 +1928,28 @@
           "rank": 10
         },
         {
-          "app_id": "com.nianticlabs.pikmin",
-          "name": "Pikmin Bloom: Walk & Explore",
+          "app_id": "com.tomato.and.hkssbhc",
+          "name": "時尚百貨城",
           "rank": 11
         },
         {
-          "app_id": "com.tomato.and.hkssbhc",
-          "name": "時尚百貨城",
+          "app_id": "com.nianticlabs.pikmin",
+          "name": "Pikmin Bloom: Walk & Explore",
           "rank": 12
-        },
-        {
-          "app_id": "com.yeaplay.gp.slimeup",
-          "name": "Slime Up!",
-          "rank": 13
         },
         {
           "app_id": "com.grandgames.magicsort",
           "name": "Magic Sort!",
+          "rank": 13
+        },
+        {
+          "app_id": "com.yeaplay.gp.slimeup",
+          "name": "Slime Up!",
           "rank": 14
         },
         {
-          "app_id": "com.block.juggle",
-          "name": "Block Blast!",
+          "app_id": "com.com2usholdings.agwiv.android.google.global.normal",
+          "name": "ARES: THE IRON VANGUARD",
           "rank": 15
         }
       ],
@@ -1995,23 +1995,23 @@
           "rank": 8
         },
         {
-          "app_id": "com.nexon.devcat.mm.tw",
-          "name": "瑪奇 Mobile",
-          "rank": 9
-        },
-        {
           "app_id": "com.nianticlabs.pikmin",
           "name": "Pikmin Bloom: Walk & Explore",
-          "rank": 10
+          "rank": 9
         },
         {
           "app_id": "com.king.candycrushsaga",
           "name": "糖果传奇",
-          "rank": 11
+          "rank": 10
         },
         {
           "app_id": "com.mergegames.gossipharbor",
           "name": "绯闻港口：合并&故事",
+          "rank": 11
+        },
+        {
+          "app_id": "com.farlightgames.pgame.gp",
+          "name": "塔塔冒险队",
           "rank": 12
         },
         {
@@ -2020,8 +2020,8 @@
           "rank": 13
         },
         {
-          "app_id": "com.farlightgames.pgame.gp",
-          "name": "塔塔冒险队",
+          "app_id": "com.nexon.devcat.mm.tw",
+          "name": "瑪奇 Mobile",
           "rank": 14
         },
         {
@@ -2049,13 +2049,13 @@
           "rank": 3
         },
         {
-          "app_id": "wordsort.merge.bubble",
-          "name": "Bouncy Match: Bubble Word",
+          "app_id": "com.grandgames.magicsort",
+          "name": "マジックソート！ (Magic Sort !)",
           "rank": 4
         },
         {
-          "app_id": "com.grandgames.magicsort",
-          "name": "マジックソート！ (Magic Sort !)",
+          "app_id": "wordsort.merge.bubble",
+          "name": "Bouncy Match: Bubble Word",
           "rank": 5
         },
         {
@@ -2064,33 +2064,33 @@
           "rank": 6
         },
         {
-          "app_id": "com.cyphergames.royalsmash",
-          "name": "Royal Smash! - Physics Puzzle",
+          "app_id": "com.oakever.arrows",
+          "name": "Amaze GO! - 矢印 パズル",
           "rank": 7
         },
         {
-          "app_id": "com.wordmatch.jpn.an",
-          "name": "文字の中に文字!",
+          "app_id": "com.cyphergames.royalsmash",
+          "name": "Royal Smash! - Physics Puzzle",
           "rank": 8
-        },
-        {
-          "app_id": "com.Chodun.CatGunner",
-          "name": "にゃんこ銃士：放置育成RPG",
-          "rank": 9
         },
         {
           "app_id": "com.mergegames.gossipharbor",
           "name": "ゴシップハーバー：マージ & ストーリー",
+          "rank": 9
+        },
+        {
+          "app_id": "com.wordmatch.jpn.an",
+          "name": "文字の中に文字!",
           "rank": 10
+        },
+        {
+          "app_id": "com.Chodun.CatGunner",
+          "name": "にゃんこ銃士：放置育成RPG",
+          "rank": 11
         },
         {
           "app_id": "com.pocket.sort.coin.puzzle.game",
           "name": "ポケットソート (Pocket Sort)：コインパズル",
-          "rank": 11
-        },
-        {
-          "app_id": "com.oakever.arrows",
-          "name": "Amaze GO! - 矢印 パズル",
           "rank": 12
         },
         {
@@ -2099,13 +2099,13 @@
           "rank": 13
         },
         {
-          "app_id": "com.roblox.client",
-          "name": "Roblox (ロブロックス)",
+          "app_id": "com.abi.colony.flow",
+          "name": "Colony Flow",
           "rank": 14
         },
         {
-          "app_id": "com.fatmerge.global",
-          "name": "グルメ・ジャーニー",
+          "app_id": "com.roblox.client",
+          "name": "Roblox (ロブロックス)",
           "rank": 15
         }
       ],
@@ -2116,18 +2116,18 @@
           "rank": 1
         },
         {
-          "app_id": "jp.co.cygames.umamusume",
-          "name": "ウマ娘 プリティーダービー",
-          "rank": 2
-        },
-        {
           "app_id": "com.HoYoverse.hkrpgoversea",
           "name": "崩壊：スターレイル",
-          "rank": 3
+          "rank": 2
         },
         {
           "app_id": "com.aniplex.fategrandorder",
           "name": "Fate/Grand Order",
+          "rank": 3
+        },
+        {
+          "app_id": "jp.co.cygames.umamusume",
+          "name": "ウマ娘 プリティーダービー",
           "rank": 4
         },
         {
@@ -2141,13 +2141,13 @@
           "rank": 6
         },
         {
-          "app_id": "jp.gungho.pad",
-          "name": "パズル＆ドラゴンズ",
+          "app_id": "com.gof.global",
+          "name": "ホワイトアウト・サバイバル",
           "rank": 7
         },
         {
-          "app_id": "com.gof.global",
-          "name": "ホワイトアウト・サバイバル",
+          "app_id": "com.mergegames.gossipharbor",
+          "name": "ゴシップハーバー：マージ & ストーリー",
           "rank": 8
         },
         {
@@ -2156,8 +2156,8 @@
           "rank": 9
         },
         {
-          "app_id": "com.mergegames.gossipharbor",
-          "name": "ゴシップハーバー：マージ & ストーリー",
+          "app_id": "jp.gungho.pad",
+          "name": "パズル＆ドラゴンズ",
           "rank": 10
         },
         {
@@ -2166,23 +2166,23 @@
           "rank": 11
         },
         {
-          "app_id": "com.dreamgames.royalmatch",
-          "name": "ロイヤルマッチ Royal Match",
+          "app_id": "com.proximabeta.nikke",
+          "name": "勝利の女神：NIKKE",
           "rank": 12
         },
         {
-          "app_id": "com.kurogame.wutheringwaves.global",
-          "name": "鳴潮",
+          "app_id": "com.dreamgames.royalmatch",
+          "name": "ロイヤルマッチ Royal Match",
           "rank": 13
+        },
+        {
+          "app_id": "jp.konami.pesam",
+          "name": "eFootball™",
+          "rank": 14
         },
         {
           "app_id": "net.peakgames.toonblast",
           "name": "トゥーンブラスト (Toon Blast)",
-          "rank": 14
-        },
-        {
-          "app_id": "com.bandainamcoent.idolmaster_gakuen",
-          "name": "学園アイドルマスター",
           "rank": 15
         }
       ]
@@ -2205,28 +2205,28 @@
           "rank": 3
         },
         {
-          "app_id": "com.kingkongsoft.jjry.g",
-          "name": "요새하는겜 : 전략적 요새 디펜스",
-          "rank": 4
-        },
-        {
           "app_id": "com.noriworks.gm",
           "name": "고스톱M : 데이터 필요없는 맞고 게임",
-          "rank": 5
+          "rank": 4
         },
         {
           "app_id": "com.mocacorp.tile",
           "name": "타일 킹 - 트리플 매치",
-          "rank": 6
+          "rank": 5
         },
         {
-          "app_id": "com.Chodun.CatGunner",
-          "name": "총잡이 고양이 : 방치형 키우기 RPG",
-          "rank": 7
+          "app_id": "com.kingkongsoft.jjry.g",
+          "name": "요새하는겜 : 전략적 요새 디펜스",
+          "rank": 6
         },
         {
           "app_id": "com.mocacorp.sudoku",
           "name": "스도쿠",
+          "rank": 7
+        },
+        {
+          "app_id": "com.Chodun.CatGunner",
+          "name": "총잡이 고양이 : 방치형 키우기 RPG",
           "rank": 8
         },
         {
@@ -2235,13 +2235,13 @@
           "rank": 9
         },
         {
-          "app_id": "com.smilegate.eclipse.stove.google",
-          "name": "이클립스: 더 어웨이크닝",
+          "app_id": "com.grandgames.magicsort",
+          "name": "매직 정렬!  (Magic Sort !)",
           "rank": 10
         },
         {
-          "app_id": "com.grandgames.magicsort",
-          "name": "매직 정렬!  (Magic Sort !)",
+          "app_id": "com.smilegate.eclipse.stove.google",
+          "name": "이클립스: 더 어웨이크닝",
           "rank": 11
         },
         {
@@ -2255,13 +2255,13 @@
           "rank": 13
         },
         {
-          "app_id": "com.dreamplay.greatjt.google",
-          "name": "소년가행: 강호의 시작",
+          "app_id": "com.davincinote.twomergesimul",
+          "name": "머지 쿡토피아",
           "rank": 14
         },
         {
-          "app_id": "com.yuegame.defender",
-          "name": "골드 마인 디펜더",
+          "app_id": "com.dreamplay.greatjt.google",
+          "name": "소년가행: 강호의 시작",
           "rank": 15
         }
       ],
@@ -2297,13 +2297,13 @@
           "rank": 6
         },
         {
-          "app_id": "com.nexon.ma",
-          "name": "메이플 키우기",
+          "app_id": "com.mergegames.gossipharbor",
+          "name": "가십하버: 합성 & 스토리 게임",
           "rank": 7
         },
         {
-          "app_id": "com.mergegames.gossipharbor",
-          "name": "가십하버: 합성 & 스토리 게임",
+          "app_id": "com.nexon.ma",
+          "name": "메이플 키우기",
           "rank": 8
         },
         {
@@ -2337,8 +2337,8 @@
           "rank": 14
         },
         {
-          "app_id": "com.HoYoverse.hkrpgoversea",
-          "name": "붕괴: 스타레일",
+          "app_id": "com.proximabeta.nikke",
+          "name": "승리의 여신: 니케",
           "rank": 15
         }
       ]
@@ -2361,23 +2361,23 @@
           "rank": 3
         },
         {
-          "app_id": "com.grandgames.magicsort",
-          "name": "Magic Sort!",
+          "app_id": "com.vitastudio.mahjong",
+          "name": "Vita Mahjong",
           "rank": 4
         },
         {
-          "app_id": "com.vitastudio.mahjong",
-          "name": "Vita Mahjong",
+          "app_id": "com.grandgames.magicsort",
+          "name": "Magic Sort!",
           "rank": 5
-        },
-        {
-          "app_id": "com.studiosirenia.minimuse",
-          "name": "MiniMuse",
-          "rank": 6
         },
         {
           "app_id": "com.block.juggle",
           "name": "Block Blast!",
+          "rank": 6
+        },
+        {
+          "app_id": "com.studiosirenia.minimuse",
+          "name": "MiniMuse",
           "rank": 7
         },
         {
@@ -2401,23 +2401,23 @@
           "rank": 11
         },
         {
-          "app_id": "triple.sorting.bubble.fish.match",
-          "name": "Fish Sort Puzzle",
+          "app_id": "in.playsimple.wordsearch",
+          "name": "Word Search Explorer",
           "rank": 12
         },
         {
-          "app_id": "in.playsimple.wordsearch",
-          "name": "Word Search Explorer",
+          "app_id": "triple.sorting.bubble.fish.match",
+          "name": "Fish Sort Puzzle",
           "rank": 13
+        },
+        {
+          "app_id": "com.flow.smashparty",
+          "name": "Smash Land!",
+          "rank": 14
         },
         {
           "app_id": "com.abi.colony.flow",
           "name": "Colony Flow!",
-          "rank": 14
-        },
-        {
-          "app_id": "com.sled.surfers.game",
-          "name": "Sled Surfers",
           "rank": 15
         }
       ],
@@ -2458,18 +2458,18 @@
           "rank": 7
         },
         {
-          "app_id": "com.gof.global",
-          "name": "Whiteout Survival",
-          "rank": 8
-        },
-        {
           "app_id": "com.moonactive.coinmaster",
           "name": "Coin Master",
-          "rank": 9
+          "rank": 8
         },
         {
           "app_id": "com.dreamgames.royalkingdom",
           "name": "Royal Kingdom",
+          "rank": 9
+        },
+        {
+          "app_id": "com.gof.global",
+          "name": "Whiteout Survival",
           "rank": 10
         },
         {
@@ -2483,13 +2483,13 @@
           "rank": 12
         },
         {
-          "app_id": "net.peakgames.toonblast",
-          "name": "Toon Blast",
+          "app_id": "com.readygo.barrel.gp",
+          "name": "Last Z: Survival Shooter",
           "rank": 13
         },
         {
-          "app_id": "com.readygo.barrel.gp",
-          "name": "Last Z: Survival Shooter",
+          "app_id": "net.peakgames.toonblast",
+          "name": "Toon Blast",
           "rank": 14
         },
         {
@@ -2502,13 +2502,13 @@
     "br": {
       "topselling_free": [
         {
-          "app_id": "com.roblox.client",
-          "name": "Roblox",
+          "app_id": "com.dts.freefireth",
+          "name": "Free Fire x NARUTO SHIPPUDEN",
           "rank": 1
         },
         {
-          "app_id": "com.dts.freefireth",
-          "name": "Free Fire x NARUTO SHIPPUDEN",
+          "app_id": "com.roblox.client",
+          "name": "Roblox",
           "rank": 2
         },
         {
@@ -2522,23 +2522,23 @@
           "rank": 4
         },
         {
+          "app_id": "com.dreamgames.royalmatch",
+          "name": "Royal Match",
+          "rank": 5
+        },
+        {
           "app_id": "com.kiloo.subwaysurf",
           "name": "Subway Surfers",
-          "rank": 5
+          "rank": 6
         },
         {
           "app_id": "com.nivalogic.twistysnake",
           "name": "Twisty Snake Out",
-          "rank": 6
-        },
-        {
-          "app_id": "com.puzzlegames.puzzlebrickslegend",
-          "name": "Color Block: Combo Blast",
           "rank": 7
         },
         {
-          "app_id": "com.dreamgames.royalmatch",
-          "name": "Royal Match",
+          "app_id": "com.launcher.brgame",
+          "name": "BLACK RUSSIA",
           "rank": 8
         },
         {
@@ -2547,8 +2547,8 @@
           "rank": 9
         },
         {
-          "app_id": "com.launcher.brgame",
-          "name": "BLACK RUSSIA",
+          "app_id": "com.puzzlegames.puzzlebrickslegend",
+          "name": "Color Block: Combo Blast",
           "rank": 10
         },
         {
@@ -2562,13 +2562,13 @@
           "rank": 12
         },
         {
-          "app_id": "com.pazugames.avatarworld",
-          "name": "Avatar World ®",
+          "app_id": "com.lylumbr.escbus",
+          "name": "ESC Bus Simulador",
           "rank": 13
         },
         {
-          "app_id": "com.studiosirenia.minimuse",
-          "name": "MiniMuse",
+          "app_id": "com.pazugames.avatarworld",
+          "name": "Avatar World ®",
           "rank": 14
         },
         {
@@ -2599,13 +2599,13 @@
           "rank": 4
         },
         {
-          "app_id": "com.king.candycrushsaga",
-          "name": "Candy Crush Saga",
+          "app_id": "jp.konami.pesam",
+          "name": "eFootball™",
           "rank": 5
         },
         {
-          "app_id": "jp.konami.pesam",
-          "name": "eFootball™",
+          "app_id": "com.king.candycrushsaga",
+          "name": "Candy Crush Saga",
           "rank": 6
         },
         {
@@ -2668,13 +2668,13 @@
           "rank": 2
         },
         {
-          "app_id": "com.roblox.client",
-          "name": "Roblox",
+          "app_id": "com.oakever.arrows",
+          "name": "Amaze GO!",
           "rank": 3
         },
         {
-          "app_id": "com.oakever.arrows",
-          "name": "Amaze GO!",
+          "app_id": "com.roblox.client",
+          "name": "Roblox",
           "rank": 4
         },
         {
@@ -2708,13 +2708,13 @@
           "rank": 10
         },
         {
-          "app_id": "com.farlightgames.warline.gp.global",
-          "name": "Warline: Sniper Strike",
+          "app_id": "com.mergegames.gossipharbor",
+          "name": "Gossip Harbor®: Merge & Story",
           "rank": 11
         },
         {
-          "app_id": "com.studiosirenia.minimuse",
-          "name": "MiniMuse",
+          "app_id": "com.farlightgames.warline.gp.global",
+          "name": "Warline: Sniper Strike",
           "rank": 12
         },
         {
@@ -2723,13 +2723,13 @@
           "rank": 13
         },
         {
-          "app_id": "com.sled.surfers.game",
-          "name": "Sled Surfers",
+          "app_id": "com.flow.smashparty",
+          "name": "Smash Land!",
           "rank": 14
         },
         {
-          "app_id": "com.cyphergames.royalsmash",
-          "name": "Royal Smash! - Physics Puzzle",
+          "app_id": "com.wood.block.sudoku.puzzle.bm",
+          "name": "Block Crush: Block Blast Fun",
           "rank": 15
         }
       ],
@@ -2795,13 +2795,13 @@
           "rank": 12
         },
         {
-          "app_id": "com.fun.lastwar.gp",
-          "name": "Last War:Survival Game",
+          "app_id": "com.superplaystudios.disneysolitairedreams",
+          "name": "Disney Solitaire",
           "rank": 13
         },
         {
-          "app_id": "com.superplaystudios.disneysolitairedreams",
-          "name": "Disney Solitaire",
+          "app_id": "com.fun.lastwar.gp",
+          "name": "Last War:Survival Game",
           "rank": 14
         },
         {
@@ -2839,13 +2839,13 @@
           "rank": 5
         },
         {
-          "app_id": "com.puzzlegames.puzzlebrickslegend",
-          "name": "Color Block: Combo Blast",
+          "app_id": "com.grandgames.magicsort",
+          "name": "Magic Sort!",
           "rank": 6
         },
         {
-          "app_id": "com.grandgames.magicsort",
-          "name": "Magic Sort!",
+          "app_id": "com.puzzlegames.puzzlebrickslegend",
+          "name": "Color Block: Combo Blast",
           "rank": 7
         },
         {
@@ -2869,8 +2869,8 @@
           "rank": 11
         },
         {
-          "app_id": "com.block.juggle",
-          "name": "Block Blast!",
+          "app_id": "com.badguytw.gp",
+          "name": "不良人：破局",
           "rank": 12
         },
         {
@@ -2879,60 +2879,60 @@
           "rank": 13
         },
         {
-          "app_id": "com.project.idle.cd",
-          "name": "Top Force",
+          "app_id": "com.block.juggle",
+          "name": "Block Blast!",
           "rank": 14
         },
         {
-          "app_id": "com.wood.block.sudoku.puzzle.bm",
-          "name": "Block Crush!",
+          "app_id": "com.project.idle.cd",
+          "name": "Top Force",
           "rank": 15
         }
       ],
       "topselling_grossing": [
         {
-          "app_id": "com.king.candycrushsaga",
-          "name": "糖果传奇",
+          "app_id": "com.bandainamcoent.gget_WW",
+          "name": "SD高达 G世代 永恒",
           "rank": 1
         },
         {
-          "app_id": "com.moonactive.coinmaster",
-          "name": "金币大师",
+          "app_id": "com.king.candycrushsaga",
+          "name": "糖果传奇",
           "rank": 2
-        },
-        {
-          "app_id": "com.run.tower.defense",
-          "name": "Kingshot",
-          "rank": 3
         },
         {
           "app_id": "com.roblox.client",
           "name": "Roblox",
+          "rank": 3
+        },
+        {
+          "app_id": "com.moonactive.coinmaster",
+          "name": "金币大师",
           "rank": 4
+        },
+        {
+          "app_id": "com.run.tower.defense",
+          "name": "Kingshot",
+          "rank": 5
         },
         {
           "app_id": "com.gof.global",
           "name": "寒霜启示录",
-          "rank": 5
+          "rank": 6
         },
         {
           "app_id": "com.HoYoverse.hkrpgoversea",
           "name": "崩坏：星穹铁道",
-          "rank": 6
+          "rank": 7
         },
         {
           "app_id": "com.qookkagames.xczyw.gp.hk",
           "name": "信長之野望 真戰（港澳版）",
-          "rank": 7
+          "rank": 8
         },
         {
           "app_id": "com.mergegames.gossipharbor",
           "name": "绯闻港口：合并&故事",
-          "rank": 8
-        },
-        {
-          "app_id": "com.bandainamcoent.gget_WW",
-          "name": "SD高达 G世代 永恒",
           "rank": 9
         },
         {
@@ -2941,8 +2941,8 @@
           "rank": 10
         },
         {
-          "app_id": "com.nexon.devcat.mm.tw",
-          "name": "瑪奇 Mobile",
+          "app_id": "com.boyaa.enginexgxianggangqp.main",
+          "name": "開心鬥一番-港式麻雀 跑馬仔 鋤大D等5 IN 1",
           "rank": 11
         },
         {
@@ -2951,8 +2951,8 @@
           "rank": 12
         },
         {
-          "app_id": "com.boyaa.enginexgxianggangqp.main",
-          "name": "開心鬥一番-港式麻雀 跑馬仔 鋤大D等5 IN 1",
+          "app_id": "com.bandainamcogames.dbzdokkan",
+          "name": "ドラゴンボールZ ドッカンバトル",
           "rank": 13
         },
         {
@@ -2961,8 +2961,8 @@
           "rank": 14
         },
         {
-          "app_id": "com.bandainamcogames.dbzdokkan",
-          "name": "ドラゴンボールZ ドッカンバトル",
+          "app_id": "com.xiaomeng.fategrandorder",
+          "name": "Fate/Grand Order",
           "rank": 15
         }
       ]
@@ -2990,28 +2990,28 @@
           "rank": 4
         },
         {
-          "app_id": "com.Rohit.IndianBikes",
-          "name": "Indian Bikes Driving 3D",
-          "rank": 5
-        },
-        {
           "app_id": "com.rioo.runnersubway",
           "name": "Subway Princess Runner",
-          "rank": 6
-        },
-        {
-          "app_id": "com.grand.city.miami.gangster",
-          "name": "Real Gangster: Open World 3D",
-          "rank": 7
+          "rank": 5
         },
         {
           "app_id": "com.miniclip.carrom",
           "name": "Carrom Pool: Disc Game",
-          "rank": 8
+          "rank": 6
+        },
+        {
+          "app_id": "com.Rohit.IndianBikes",
+          "name": "Indian Bikes Driving 3D",
+          "rank": 7
         },
         {
           "app_id": "gridplus.busjam.carpuzzle",
           "name": "Bus Fever Party!",
+          "rank": 8
+        },
+        {
+          "app_id": "com.grand.city.miami.gangster",
+          "name": "Real Gangster: Open World 3D",
           "rank": 9
         },
         {
@@ -3025,13 +3025,13 @@
           "rank": 11
         },
         {
-          "app_id": "com.car.driving.traffic.simulation",
-          "name": "Car Driving Traffic Race",
+          "app_id": "com.oakever.arrows",
+          "name": "Amaze GO!",
           "rank": 12
         },
         {
-          "app_id": "io.voodoo.paper2",
-          "name": "Paper.io 2",
+          "app_id": "com.sgs.gangster.open.world.crime.simulator.game",
+          "name": "Gangster Game 3D Crime Game",
           "rank": 13
         },
         {
@@ -3040,8 +3040,8 @@
           "rank": 14
         },
         {
-          "app_id": "com.sgs.gangster.open.world.crime.simulator.game",
-          "name": "Gangster Game 3D Crime Game",
+          "app_id": "com.car.driving.traffic.simulation",
+          "name": "Car Driving Traffic Race",
           "rank": 15
         }
       ],
@@ -3092,13 +3092,13 @@
           "rank": 9
         },
         {
-          "app_id": "com.run.tower.defense",
-          "name": "Kingshot",
+          "app_id": "com.playrix.gardenscapes",
+          "name": "Gardenscapes",
           "rank": 10
         },
         {
-          "app_id": "com.playrix.gardenscapes",
-          "name": "Gardenscapes",
+          "app_id": "com.run.tower.defense",
+          "name": "Kingshot",
           "rank": 11
         },
         {
